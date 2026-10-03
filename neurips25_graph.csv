@@ -1,0 +1,626 @@
+ids,titles,scores
+Sf5nxMRiG7,Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems,5.5
+xKmlBQhgI4,Path-Enhanced Contrastive Learning for Recommendation,5.25
+uQmUjgR8Er,Estimating Hitting Times Locally at Scale,5.25
+qAggjeV2JO,InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion,5.25
+n8AvXKcCeR,GenColor: Generative and Expressive Color Enhancement with Pixel-Perfect Texture Preservation,5.25
+ls5L4IMEwt,E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products,5.25
+TeocEZCWnr,Exact and Linear Convergence for Federated Learning under Arbitrary Client Participation is Attainable,5.25
+ATewcZPbDj,Accelerating 3D Molecule Generative Models with Trajectory Diagnosis,5.25
+V7m2oQ5OFW,On the Universal Near Optimality of Hedge in Combinatorial Settings,5.2
+zJdutIT6vT,Discovering Opinion Intervals from Conflicts in Signed Graphs,5.0
+wdI2WKCN3P,HoT-VI: Reparameterizable Variational Inference for Capturing Instance-Level High-Order Correlations,5.0
+vATe64ktAo,Robust Graph Condensation via Classification Complexity Mitigation,5.0
+pyDAihUMKV,Relaxing partition admissibility in Cluster-DAGs: a causal calculus with arbitrary variable clustering,5.0
+po0eyoYFUa,Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?,5.0
+n5NZqzAITL,Principled Data Augmentation for Learning to Solve Quadratic Programming Problems,5.0
+hsD30Qljz0,Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features,5.0
+hLZrqDFugY,Nonlinear Laplacians: Tunable principal component analysis under directional prior information,5.0
+fBNaGVMDD9,Low-degree evidence for computational transition of recovery rate in stochastic block model,5.0
+erwwuMhTJX,Cyclic Counterfactuals under Shift–Scale Interventions,5.0
+dfcQFL89OM,Causality Meets Locality: Provably Generalizable and Scalable Policy Learning for Networked Systems,5.0
+VanvIu0KZU,Joint Hierarchical Representation Learning of Samples and Features via Informed Tree-Wasserstein Distance,5.0
+TFhV2J2ZlA,Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning,5.0
+S8XcHutp7Z,X-Field: A Physically Informed Representation for 3D X-ray Reconstruction,5.0
+PoIhCjqzn0,L2DGCN: Learnable Enhancement and Label Selection Dynamic Graph Convolutional Networks for Mitigating Degree Bias,5.0
+IGJHOcoQKp,UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces,5.0
+EEZLBhyer1,The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis,5.0
+E3oNDQ8e9r,GSRF: Complex-Valued 3D Gaussian Splatting for Efficient Radio-Frequency Data Synthesis,5.0
+BRklmFlCsD,UniteFormer: Unifying Node and Edge Modalities in Transformers for Vehicle Routing Problems,5.0
+9G0qc90PyI,Inexact Column Generation for Bayesian Network Structure Learning via Difference-of-Submodular Optimization,5.0
+8I5ENDN5ux,Beyond Node-Centric Modeling: Sketching Signed Networks with Simplicial Complexes,5.0
+5iHDGJFf49,Self-Assembling Graph Perceptrons,5.0
+4frj038M6W,Accelerating Visual-Policy Learning through Parallel Differentiable Simulation,5.0
+3Sk8CaQWdv,Decoding Causal Structure: End-to-End Mediation Pathways Inference,5.0
+25C8oC1pb2,EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis,5.0
+fDl6RolijS,Discrete Diffusion Models: Novel Analysis and New Sampler Guarantees,4.8
+FUBaZDMOFj,Efficient Kernelized Learning in Polyhedral Games beyond Full Information: From Colonel Blotto to Congestion Games,4.8
+CkAZ5sgDQX,SplashNet: Split‑and‑Share Encoders for Accurate and Efficient Typing with Surface Electromyography,4.8
+7bCPXHq8xV,Price of Parsimony: Complexity of Fourier Sparsity Testing,4.8
+3G56xClPYg,Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework,4.8
+zxfwVts5it,MultiNet: Adaptive Multi-Viewed Subgraph Convolutional Networks for Graph Classification,4.75
+zQqDqfja4Y,Depth-Supervised Fusion Network for Seamless-Free Image Stitching,4.75
+ypPxYsmZPx,DCA: Graph-Guided Deep Embedding Clustering for Brain Atlases,4.75
+yNej0aGtAZ,Deeper with Riemannian Geometry: Overcoming Oversmoothing and Oversquashing for Graph Foundation Models,4.75
+wGZPNMEHjP,UnCLe: Towards Scalable Dynamic Causal Discovery in Non-linear Temporal Systems,4.75
+vpJDCWOnPj,A Generalized Binary Tree Mechanism for Private Approximation of All-Pair Shortest Distances,4.75
+vZfqDwF09z,Let Brain Rhythm Shape Machine Intelligence for Connecting Dots on Graphs,4.75
+uJinTwXfbs,A Hierarchy of Graphical Models for Counterfactual Inferences,4.75
+theJ4Qiz55,Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation,4.75
+thHhKPlt8q,On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting,4.75
+pkuVonMwhT,Neural Atlas Graphs for Dynamic Scene Decomposition and Editing,4.75
+opAU0pYlcP,Near-Optimal Experiment Design in Linear non-Gaussian Cyclic Models,4.75
+oLyfML1Qze,Return of ChebNet: Understanding and Improving an Overlooked GNN on Long Range Tasks,4.75
+o0JSYq1TQ4,ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation,4.75
+mmIAp3cVS0,G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems,4.75
+mOYGK7Hw9Y,DeCaFlow: A deconfounding causal generative model,4.75
+kLAwT8G3Q1,The Parameterized Complexity of Computing the VC-Dimension,4.75
+k0wyi4cOGy,KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment,4.75
+ghybX0Qlls,LocDiff: Identifying Locations on Earth by Diffusing in the Hilbert Space,4.75
+fyqqd1lHDb,Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models,4.75
+fb7maZToPl,Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering,4.75
+fUhWmqCnqW,Taxonomy of reduction matrices for Graph Coarsening,4.75
+eafIjoZAHm,GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability,4.75
+dsp8dUlZFq,Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts,4.75
+cLQlsOGqbM,Axial Neural Networks for Dimension-Free Foundation Models,4.75
+bChA28jPpm,Pseudo-Riemannian Graph Transformer,4.75
+XoN10bZtR9,Rethinking Joint Maximum Mean Discrepancy for Visual Domain Adaptation,4.75
+XmV7KRABBl,EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks,4.75
+Wlw8jkGscY,Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains,4.75
+Wbc3PutCyQ,Puppeteer: Rig and Animate Your 3D Models,4.75
+VeZkY3JjWV,Pixel Reasoner: Incentivizing Pixel Space Reasoning via Curiosity-Driven Reinforcement Learning,4.75
+VN5bMTfSZS,OCTDiff: Bridged Diffusion Model for Portable OCT Super-Resolution and Enhancement,4.75
+UB5u3KvOS1,ScatterAD: Temporal-Topological Scattering Mechanism for Time Series Anomaly Detection,4.75
+U88JlpY0vR,MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning,4.75
+U2egSkNzP4,$\psi$DAG: Projected Stochastic Approximation Iteration for Linear DAG Structure Learning,4.75
+Rtp3yLWAjI,"A Latent Multilayer Graphical Model For Complex, Interdependent Systems",4.75
+ROfYsQ2KNV,Generalizable Insights for Graph Transformers in Theory and Practice,4.75
+QQqDBRRslp,Toward a Unified Geometry Understanding : Riemannian Diffusion Framework for Graph Generation and Prediction,4.75
+PluDA8DEar,Boundary-Value PDEs Meet Higher-Order Differential Topology-aware GNNs,4.75
+PhIWEbewAz,Can We Infer Confidential Properties of Training Data from LLMs?,4.75
+PhHrlDKcx1,Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation,4.75
+OaNbl9b56B,Do-PFN: In-Context Learning for Causal Effect Estimation,4.75
+MfBw0dlBfi,Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics,4.75
+M8zmlixh9y,Breaking the Batch Barrier (B3) of Contrastive Learning via Smart Batch Mining,4.75
+Lq4nneD2xX,$\texttt{G1}$: Teaching LLMs to Reason on Graphs with Reinforcement Learning,4.75
+IAGbhDARZd,Making Classic GNNs Strong Baselines Across Varying Homophily: A Smoothness–Generalization Perspective,4.75
+HUUQmnwUIx,FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design,4.75
+GdrBPyUNPL,Non-monotone Submodular Optimization: $p$-Matchoid Constraints and Fully Dynamic Setting,4.75
+GcjpjIHDZn,Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure,4.75
+EpEluUcQ6A,Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph Classification,4.75
+BgwtOwFSvY,Flow based approach for Dynamic Temporal Causal models with non-Gaussian or Heteroscedastic Noises,4.75
+8UMlKkCrNj,Revisiting 1-peer exponential graph for enhancing decentralized learning efficiency,4.75
+86b23oNkg9,Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models,4.75
+7FhWZFoVem,A Closer Look at Graph Transformers: Cross-Aggregation and Beyond,4.75
+5xPvWat3IX,Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding,4.75
+5pHfYe10iX,A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers,4.75
+59HMRbpQ25,Towards Unsupervised Training of Matching-based Graph Edit Distance Solver via Preference-aware GAN,4.75
+3CRt6uJ77o,A Signed Graph Approach to Understanding and Mitigating Oversmoothing,4.75
+2zHrRV4J1O,Random Search Neural Networks for Efficient and Expressive Graph Learning,4.75
+2Ybm2W1o9m,Query-Efficient Locally Private Hypothesis Selection via the Scheffe Graph,4.75
+24tuzE5KZc,OPTFM: A Scalable Multi-View Graph Transformer for Hierarchical Pre-Training in Combinatorial Optimization,4.75
+0Az25lvdT2,Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning,4.75
+09BPzrMcKg,Graph Neural Network Based Action Ranking for Planning,4.75
+yJS1eZSNUv,Novel Exploration via Orthogonality,4.666666666666667
+tmtUA2X57D,Graph-Theoretic Insights into Bayesian Personalized Ranking for Recommendation,4.666666666666667
+rVEzTCYfD7,Online Learning of Pure States is as Hard as Mixed States,4.666666666666667
+dtsYpcJr1R,High-Performance Arithmetic Circuit Optimization via Differentiable Architecture Search,4.666666666666667
+bTclOYRfYJ,Bézier Splatting for Fast and Differentiable Vector Graphics Rendering,4.666666666666667
+XOiZ9ydssl,Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness,4.666666666666667
+LujP8dao7o,Smooth and Flexible Camera Movement Synthesis via Temporal Masked Generative Modeling,4.666666666666667
+A2pmNL7L1E,Depth-Width Tradeoffs for Transformers on Graph Tasks,4.666666666666667
+9Lb78wXdFO,Pattern-Guided Adaptive Prior for Structure Learning,4.666666666666667
+31CaYYw1Xz,A machine learning approach that beats Rubik's cubes,4.666666666666667
+2xeYuWd7WZ,Lorentz Local Canonicalization: How to make any Network Lorentz-Equivariant,4.666666666666667
+1fycT4ZRf1,Scalable Signature Kernel Computations via Local Neumann Series Expansions,4.666666666666667
+m5wrqqcWbN,Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs,4.6
+g9XLUU3TaG,Graph-Based Attention for Differentiable MaxSAT Solving,4.6
+g2AAvmBwkS,Cloud4D: Estimating Cloud Properties at a High Spatial and Temporal Resolution,4.6
+bLXfEMe1Dk,Feature-Based Instance Neighbor Discovery: Advanced Stable Test-Time Adaptation in Dynamic World,4.6
+WYnvP3DePZ,Bridging Theory and Practice in Link Representation with Graph Neural Networks,4.6
+V8HhrBSsEn,The quest for the GRAph Level autoEncoder (GRALE),4.6
+V4YAS7NLXi,On Universality Classes of Equivariant Networks,4.6
+I1hgynwxGZ,Reward-oriented Causal Representation Learning,4.6
+BGwZsFLJFU,Contextual Tokenization for Graph Inverted Indices,4.6
+9lASMulFUj,Towards Pre-trained Graph Condensation via Optimal Transport,4.6
+1nSynwHvu2,Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs,4.6
+1KXST1ksJ2,Learning to Plan Like the Human Brain via Visuospatial Perception and Semantic-Episodic Synergistic Decision-Making,4.6
+zjQLUiguRz,TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction,4.5
+zftxlb1AOo,Structure-Aware Cooperative Ensemble Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models,4.5
+zDOo34mbpl,Accelerated Evolving Set Processes for Local PageRank Computation,4.5
+yHi8Ao6GAe,MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification,4.5
+xlQ4QUB9VC,ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction,4.5
+xJ2lGfFOv7,One Prompt Fits All: Universal Graph Adaptation for Pretrained Models,4.5
+x0q4EXkbc2,Parameter-Free Hypergraph Neural Network for Few-Shot Node Classification,4.5
+wszZlP1K14,Learning Juntas under Markov Random Fields,4.5
+w1b2Jqemj6,Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation,4.5
+vpp3FGNLi6,NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval,4.5
+uKSr3KgEqV,Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs,4.5
+u8SXX5ITE6,Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition,4.5
+tyERwC5520,GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning,4.5
+tirl2l9oKg,RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation,4.5
+tQZK5frjVU,Data Mixing Can Induce Phase Transitions in Knowledge Acquisition,4.5
+tGLZj8GWx3,The Structural Complexity of Matrix-Vector Multiplication,4.5
+sye27MizdM,Topology-aware Graph Diffusion Model with Persistent Homology,4.5
+swwAPbtU07,Mixture of Scope Experts at Test: Generalizing Deeper Graph Neural Networks with Shallow Variants,4.5
+supy1n4Tev,Diffusion Transformers as Open-World Spatiotemporal Foundation Models,4.5
+skx3QgGKEF,Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations,4.5
+sRLB4XjorC,OmniSVG:  A Unified Scalable Vector Graphics Generation Model,4.5
+qS3WgmGs9s,SketchMind:  A Multi-Agent Cognitive Framework for Assessing Student-Drawn Scientific Sketches,4.5
+oysfr9yqUI,Scalable Cross-View Sample Alignment for Multi-View Clustering with View Structure Similarity,4.5
+oIBwHvF930,MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation,4.5
+nzwjvpCO4F,InstructFlow: Adaptive Symbolic Constraint-Guided Code Generation for Long-Horizon Planning,4.5
+nM9j2F7jL3,Identifying Macro Causal Effects in C-DMGs over DMGs,4.5
+n1XlwRmF7v,Enhancing Graph Classification Robustness with Singular Pooling,4.5
+l8razJItEy,On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study,4.5
+kxuIIMBVTg,Refining Norms: A Post-hoc Framework for OOD Detection in Graph Neural Networks,4.5
+jtMDzggo6M,Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs,4.5
+idir4VfpuZ,VeriLoC: Line-of-Code Level Prediction of Hardware Design Quality from Verilog Code,4.5
+i3sWs5614Y,Transfer Learning on Edge Connecting Probability Estimation Under Graphon Model,4.5
+hqmdhrnzfp,Less Greedy Equivalence Search,4.5
+hTOWYQNsrb,Semi-supervised Graph Anomaly Detection via Robust Homophily Learning,4.5
+hJJnwcvE2M,Self-Perturbed Anomaly-Aware Graph Dynamics for Multivariate Time-Series Anomaly Detection,4.5
+h3dbocj7po,GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments,4.5
+h2kwURAFkJ,Interaction-Centric Knowledge Infusion and Transfer for Open Vocabulary Scene Graph Generation,4.5
+gXoMU9YYdY,Sketch-Augmented Features Improve Learning Long-Range Dependencies in Graph Neural Networks,4.5
+ftZEltGArK,From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography,4.5
+fgW3IZzxmE,msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML,4.5
+fS1ojmtVMf,LD-RoViS: Training-free Robust Video Steganography for Deterministic Latent Diffusion Model,4.5
+eszmES7j1F,Flatten Graphs as Sequences: Transformers are Scalable Graph Generators,4.5
+eqvg92dZfL,Graph Alignment via Birkhoff Relaxation,4.5
+emM7U3WKMO,Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes,4.5
+e0Pq8EZx37,Optimal community detection in dense bipartite graphs,4.5
+d6wOZrzaWd,Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models,4.5
+cUy3tYIOS5,Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs,4.5
+cOSXcSmmJL,IntrinsiX: High-Quality PBR Generation using Image Priors,4.5
+c7leN0pIQv,Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework,4.5
+bmoGGgSLzB,Is Noise Conditioning Necessary? A Unified Theory of Unconditional Graph Diffusion Models,4.5
+aI3d897dgV,Causal Mixture Models: Characterization and Discovery,4.5
+aI3Oacoyi6,Distributed Multi-Agent Bandits Over Erdős-Rényi Random Networks,4.5
+aHAMUEsQLc,Data-Adaptive Exposure Thresholds under Network Interference,4.5
+aGB48BEN6N,Improved Robust Estimation for Erdős-Rényi Graphs: The Sparse Regime and Optimal Breakdown Point,4.5
+aAxHUzTdhe,CaliGCL: Calibrated Graph Contrastive Learning via Partitioned Similarity and Consistency Discrimination,4.5
+ZbLeNBiCiQ,Causal Discovery over Clusters of Variables in Markovian Systems,4.5
+YJxGJP8feU,macOSWorld: A Multilingual Interactive Benchmark for GUI Agents,4.5
+Y5wMoIbdDs,STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization,4.5
+Xk5d55Eu1i,Training Robust Graph Neural Networks by Modeling Noise Dependencies,4.5
+WQq5JPGQ0C,RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability,4.5
+VymXLPX6Ps,An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph,4.5
+Uu7UGn5i2A,Universally Invariant Learning in Equivariant GNNs,4.5
+UdOEZgWJLc,Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought,4.5
+TZB6YT8Owr,HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning,4.5
+TYoYJStuN9,A Reliable Cryptographic Framework for Empirical Machine Unlearning Evaluation,4.5
+T85ADT8a2y,A Unified Framework for Fair Graph Generation: Theoretical Guarantees and Empirical Advances,4.5
+SeC5Zb8Orf,Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning,4.5
+R9k13fTGP0,More of the Same: Persistent Representational Harms Under Increased Representation,4.5
+QupYhLEVNj,ProDAG: Projected Variational Inference for Directed Acyclic Graphs,4.5
+PdUdzvYzoH,Hadamard Test is Sufficient for Efficient Quantum Gradient Estimation with Lie Algebraic Symmetries,4.5
+NxlsOnkGYV,Influence Functions for Edge Edits in Non-Convex Graph Neural Networks,4.5
+NUaIywqBtK,Neural Fractional Attention Differential Equations,4.5
+NKJzAFYYI4,Diffusion-Guided Graph Data Augmentation,4.5
+N4cyRMuLyl,"On Vanishing Gradients, Over-Smoothing, and Over-Squashing in GNNs: Bridging Recurrent and Graph Learning",4.5
+MaJ3ASZ0NI,Lost in Transmission: When and Why LLMs Fail to Reason Globally,4.5
+JPoQca8CSg,MoleBridge: Synthetic Space Projecting with Discrete Markov Bridges,4.5
+HXFvNkNt0n,Geometry Aware Operator Transformer as an efficient and accurate neural surrogate for PDEs on arbitrary domains,4.5
+GSAKL9tc7L,FoGE: Fock Space inspired encoding for graph prompting,4.5
+GHAtg6RQ3b,Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks,4.5
+GCwJd0JH5k,State Size Independent Statistical Error Bound for Discrete Diffusion Models,4.5
+Fj2kyLs6G5,NeuroH-TGL: Neuro-Heterogeneity Guided Temporal Graph Learning Strategy  for Brain Disease Diagnosis,4.5
+FiM0M8gcct,A-Mem: Agentic Memory for LLM Agents,4.5
+FOkbHmaW0I,Simple and Efficient Heterogeneous Temporal Graph Neural Network,4.5
+F3DrgOZYc6,Improved Algorithms for Overlapping and Robust Clustering of Edge-Colored Hypergraphs: An LP-Based Combinatorial Approach,4.5
+EpGtAOr4vs,Out-of-Distribution Generalized Graph Anomaly Detection with Homophily-aware Environment Mixup,4.5
+D19hc2XPeZ,Robust LLM Alignment via Distributionally Robust Direct Preference Optimization,4.5
+Cggdvyt8ik,IA-GGAD: Zero-shot Generalist Graph Anomaly Detection via Invariant and Affinity Learning,4.5
+CVp0WCw4a1,Over-squashing in Spatiotemporal Graph Neural Networks,4.5
+CIeWaq0JDl,ProfiX: Improving Profile-Guided Optimization in Compilers with Graph Neural Networks,4.5
+CDEbgwJ6ET,AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction,4.5
+BBZEcVu1nA,Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization,4.5
+B0Gfxhr8V5,BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent,4.5
+ATYKgiDqt5,What Expressivity Theory Misses: Message Passing Complexity for GNNs,4.5
+AD8ksC9bw1,"Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs",4.5
+9vDpL9lgKS,Inverse Optimization Latent Variable Models for Learning Costs Applied to Route Problems,4.5
+9AMNN3U7Ug,GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters,4.5
+95z3psF9zJ,Differentiable Cyclic Causal Discovery Under Unmeasured Confounders,4.5
+8wWHCzsTxS,Learning from Disjoint Views: A Contrastive Prototype Matching Network for Fully Incomplete Multi-View Clustering,4.5
+8e5SJJ1cjY,SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation,4.5
+8M9T7Nl454,"VisDiff: SDF-Guided Polygon Generation for Visibility Reconstruction, Characterization and Recognition",4.5
+7dJfwHG3GN,Democratizing Clinical Risk Prediction with Cross-Cohort Cross-Modal Knowledge Transfer,4.5
+7HVADbW8fh,Coloring Learning for Heterophilic Graph Representation,4.5
+721bDIvjen,Hierarchical Shortest-Path Graph Kernel Network,4.5
+63ljkCGMhE,VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold,4.5
+626icWM1xd,Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios,4.5
+4zhhgKkVzY,Cypher-RI: Reinforcement Learning for Integrating Schema Selection into Cypher Generation,4.5
+4NaW9mbTqq,Seeing the Wind from a Falling Leaf,4.5
+48L3BEtH8w,Robust Explanations of Graph Neural Networks via Graph Curvatures,4.5
+3iPmM7cLzx,ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos,4.5
+3dnG7LcKxT,Spectral Graph Neural Networks are Incomplete on Graphs with a Simple Spectrum,4.5
+3Cpw7YftBm,LoSplit: Loss-Guided Dynamic Split for Training-Time Defense Against Graph Backdoor Attacks,4.5
+2g5cJqX15Y,Large language models can learn and generalize steganographic chain-of-thought under process supervision,4.5
+2Twzlf6qFv,Rendering-Aware Reinforcement Learning for Vector Graphics Generation,4.5
+1DgSkx8L63,ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models,4.5
+0QNmAvQQqj,GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation,4.5
+0KnFWyzrbj,DSCS: Fast CPDAG-Based Verification of Collapsible Submodels in High-Dimensional Bayesian Networks,4.5
+zYEZ5KqtDO,Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems,4.4
+ou2TWBW4zm,GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data,4.4
+kurEZdWU9G,Table as a Modality for Large Language Models,4.4
+gjjsDmlQRW,Fairness-aware Anomaly Detection via Fair Projection,4.4
+ZsySJqavh3,New Parallel and Streaming Algorithms for Directed Densest Subgraph,4.4
+Zjq1CkKDGt,GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization,4.4
+XQIa0vGIum,Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game,4.4
+WCPAHpVAUp,Optimal Graph Clustering without Edge Density Signals,4.4
+VCORb5Fw8e,On topological descriptors for graph products,4.4
+U5w9l0yQdo,Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery,4.4
+OJMLzo8rEX,HubGT: Fast Graph Transformer with Decoupled Hierarchy Labeling,4.4
+Jd8UcXJDCz,Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs,4.4
+FvXI7DNQfz,OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration,4.4
+77Kw7b7EYb,HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations,4.4
+5Z8ckcrfq1,Conditional Diffusion Anomaly Modeling on Graphs,4.4
+3jjeQNeCsl,FlowNet: Modeling Dynamic Spatio-Temporal Systems via Flow Propagation,4.4
+xVveBDPrgI,Breaking the Discretization Barrier of Continuous Physics Simulation Learning,4.333333333333333
+xNUNxRj2vJ,A Pre-training Framework for Relational Data with Information-theoretic Principles,4.333333333333333
+jYAdfwVGZw,How Does Topology Bias Distort Message Passing in Graph Recommender? A Dirichlet Energy Perspective,4.333333333333333
+gPPPfwU4jj,Geometric Logit Decoupling for Energy-Based Graph Out-of-distribution Detection,4.333333333333333
+YFQ0Xx5YlW,MIHC: Multi-View Interpretable Hypergraph Neural Networks with Information Bottleneck for Chip Congestion Prediction,4.333333333333333
+UxzfzqgnpZ,You Only Spectralize Once: Taking a Spectral Detour to Accelerate Graph Neural Network,4.333333333333333
+R9MUFuXG2o,Information-Driven Design of Imaging Systems,4.333333333333333
+PZ7YLONKiI,3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding,4.333333333333333
+N9sJRKzVK7,Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks,4.333333333333333
+KYlIC6sLhw,HollowFlow: Efficient Sample Likelihood Evaluation using Hollow Message Passing,4.333333333333333
+J4w4RtwLyB,Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models,4.333333333333333
+G67ZNmeWJ5,NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems,4.333333333333333
+D7zMB5uEHw,Autoencoding Random Forests,4.333333333333333
+CQBiYvXLgz,Redundancy-Aware Test-Time Graph Out-of-Distribution Detection,4.333333333333333
+BNWR4JOmdT,SignFlow Bipartite Subgraph Network For Large-Scale Graph Link Sign Prediction,4.333333333333333
+7rBeyE4nie,Differentially Private Gomory-Hu Trees,4.333333333333333
+6qBK9ePmtM,The Underappreciated Power of Vision Models for Graph Structural Understanding,4.333333333333333
+5bu1IOOvf0,Self-Supervised Learning of Graph Representations for Network Intrusion Detection,4.333333333333333
+2w64oCNRFV,From Black-box to Causal-box: Towards Building More Interpretable Models,4.333333333333333
+2sa13vyCn0,pLSTM: parallelizable Linear Source Transition Mark networks,4.333333333333333
+0JSolJVzjd,Improved Approximation Algorithms for Chromatic and Pseudometric-Weighted Correlation Clustering,4.333333333333333
+01hPO0uJhS,Who You Are Matters: Bridging Interests and Social Roles via LLM-Enhanced Logic Recommendation,4.333333333333333
+zlMupLoKRf,Causality Meets the Table: Debiasing LLMs for Faithful TableQA via Front-Door Intervention,4.25
+zaV9s8iM2T,UniGTE: Unified Graph–Text Encoding for Zero-Shot Generalization across Graph Tasks and Domains,4.25
+z67on2D0j1,Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games,4.25
+yv7zKaptjo,Precise Information Control in Long-Form Text Generation,4.25
+yoKpumjWXc,Learning Human-Object Interaction as Groups,4.25
+ybH0avRV4n,Beyond Pairwise Connections: Extracting High-Order Functional Brain Network Structures under Global Constraints,4.25
+xRb0taq0pD,On Group Sufficiency Under Label Bias,4.25
+x2Rk0lSQra,AutoData: A Multi-Agent System for Open Web Data Collection,4.25
+wU8IKGLpbi,Graph Persistence goes Spectral,4.25
+wHm5J9uanV,Conflict-Aware Knowledge Editing in the Wild: Semantic-Augmented Graph Representation for Unstructured Text,4.25
+vqXWCC0aUG,EverybodyDance: Bipartite Graph–Based Identity Correspondence for Multi-Character Animation,4.25
+vHTkg57tPW,Efficient Bayesian Experiment Design with Equivariant Networks,4.25
+uazfjnFL0G,LUNA: Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis,4.25
+uaQWgFk2Pf,FairImagen: Post-Processing for Bias Mitigation in Text-to-Image Models,4.25
+uVxQEIgXfL,3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction,4.25
+uS5ch7GjZ4,SPARTAN: A Sparse Transformer World Model Attending to What Matters,4.25
+tv2McpEdyH,Dynamic and Chemical Constraints to Enhance the Molecular Masked Graph Autoencoders,4.25
+tdMWo3jB21,Generative Graph Pattern Machine,4.25
+tCiijwAXij,Scaling Image Geo-Localization to Continent Level,4.25
+t6tObHgZSt,Geometric Mixture Models for Electrolyte Conductivity Prediction,4.25
+t04casiy7F,Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation,4.25
+sdlLycSeZl,Learning Memory-Enhanced Improvement Heuristics for Flexible Job Shop Scheduling,4.25
+sa6icF1Mnd,Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference,4.25
+s3WyfnHw6B,Some Optimizers are More Equal: Understanding the Role of Optimizers in Group Fairness,4.25
+rqn7XLNUAv,FRAM:  Frobenius-Regularized Assignment Matching with Mixed-Precision Computing,4.25
+rc3XO4RARL,MaNGO — Adaptable Graph Network Simulators via Meta-Learning,4.25
+ravS5h8MNg,HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation,4.25
+r029oluPS7,DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion,4.25
+qeivJh0G2j,Photography Perspective Composition: Towards Aesthetic Perspective Recommendation,4.25
+qJLPlZSdkb,Joint Modeling of fMRI and EEG Imaging Using Ordinary Differential Equation-Based Hypergraph Neural Networks,4.25
+pWzcPRIKp8,Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking,4.25
+pFL7RThdFN,Network two-sample test for block models,4.25
+pFFFRi2TcC,Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function,4.25
+p27bSdc3FS,Fair Deepfake Detectors Can Generalize,4.25
+onyzhnhApp,SSTAG: Structure-Aware Self-Supervised Learning Method for Text-Attributed Graphs,4.25
+ofBqR4l0TD,Rethinking Tokenized Graph Transformers  for Node Classification,4.25
+o3x3RV8XHd,Federated Multi-armed Bandits with Efficient Bit-Level Communications,4.25
+nw6Kx91J48,LuxDiT: Lighting Estimation with Video Diffusion Transformer,4.25
+nadVPpcMvn,On Local Limits of Sparse Random Graphs: Color Convergence and the Refined Configuration Model,4.25
+n33JVwCz38,Approximate Message Passing for Bayesian Neural Networks,4.25
+mUJU8LmhZY,Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing,4.25
+lvDsc5lxma,Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization,4.25
+lswfDFAYWR,Prompt-guided Disentangled Representation for Action Recognition,4.25
+lkw2WJLdbh,Graphs Help Graphs: Multi-Agent Graph Socialized Learning,4.25
+lGyXq0LOeQ,EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification,4.25
+l1n22nHG4A,Image Stitching in Adverse Condition: A Bidirectional-Consistency Learning Framework and Benchmark,4.25
+kzdLY8C8oa,"A Near-optimal, Scalable and Parallelizable Framework for Stochastic Bandits Robust to Adversarial Corruptions and Beyond",4.25
+kND7h1kD53,DualEqui: A Dual-Space Hierarchical Equivariant Network for Large Biomolecules,4.25
+k1fbdnwjCH,Heterogeneous Graph Transformers for Simultaneous Mobile Multi-Robot Task Allocation and Scheduling under Temporal Constraints,4.25
+ja2wA4UncJ,DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs,4.25
+jAJv3CaS4f,Memorization in Graph Neural Networks,4.25
+j42rziWq1n,ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs,4.25
+ividIRK8Ib,Hierarchical Self-Attention: Generalizing Neural Attention Mechanics to Multi-Scale Problems,4.25
+iXjVis9Cwn,Dynamic Configuration for Cutting Plane Separators via Reinforcement Learning on Incremental Graph,4.25
+iM8154lJCx,Learning Spatial-Aware Manipulation Ordering,4.25
+iDcPkDrlaW,Towards Unsupervised Open-Set Graph Domain Adaptation via Dual Reprogramming,4.25
+heoHY4vcRl,SpEx: A Spectral Approach to Explainable Clustering,4.25
+gxgPjFjGmd,Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos,4.25
+gRKorMGYlR,TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks,4.25
+fz1mm2EsQ9,Tracking and Understanding Object Transformations,4.25
+fmCnNQjZrr,STAR: Spatial-Temporal Tracklet Matching for Multi-Object Tracking,4.25
+eS3xJTjSgm,Data-Free Model Extraction for Black-box Recommender Systems via Graph Convolutions,4.25
+cx50h8q0pG,A CLT for Polynomial GNNs on Community-Based Graphs,4.25
+cuUsD5FJbe,Enhancing GUI Agent with Uncertainty-Aware Self-Trained Evaluator,4.25
+cjHQj0tCy6,BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals,4.25
+cWEssTIwG5,TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation,4.25
+cU4ow1odRe,ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback,4.25
+cNMYAzhdn5,Geometry-Aware Edge Pooling for Graph Neural Networks,4.25
+bulTwq5kNK,Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs,4.25
+b98ODdeYq5,Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks,4.25
+alCdOdH7zn,UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification,4.25
+ahJfROJOYt,RIGNO: A Graph-based Framework For Robust And Accurate Operator Learning For PDEs On Arbitrary Domains,4.25
+agcXjEHmyW,CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding,4.25
+aTiMLVePXi,Practical do-Shapley Explanations with Estimand-Agnostic Causal Inference,4.25
+aSfBbhUJAa,RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for  Complex Task Solving,4.25
+aBUG2Phwdt,Spectral Graph Coarsening Using Inner Product Preservation and the Grassmann Manifold,4.25
+ZnrM5RGrgR,OptiScene: LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization,4.25
+Zj1uV88eYU,LBMKGC: Large Model-Driven Balanced Multimodal Knowledge Graph Completion,4.25
+ZdQhQOXVku,Make Information Diffusion Explainable: LLM-based Causal Framework for Diffusion Prediction,4.25
+ZC2rbIYWfy,Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling,4.25
+YyhRJXxbpi,KGGen: Extracting Knowledge Graphs from Plain Text with Language Models,4.25
+YFZOIra4OE,Meta-D2AG: Causal Graph Learning with Interventional Dynamic Data,4.25
+Y0LHrY3x1S,T2V-OptJail: Discrete Prompt Optimization for Text-to-Video Jailbreak Attacks,4.25
+XgQVL1uP34,Collapsing Taylor Mode Automatic Differentiation,4.25
+XVm8KOO3Ri,GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning,4.25
+XQrGTggLvT,LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory,4.25
+WF9AyBTIjw,Adversarial generalization of unfolding (model-based) networks,4.25
+VkSd42HWil,Dual-Res Tandem Mamba-3D: Bilateral Breast Lesion Detection and Classification on Non-contrast Chest CT,4.25
+VhGUS8kyaC,$\texttt{STRCMP}$: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization,4.25
+UoKt9B1aY8,HiPoNet: A Multi-View Simplicial Complex Network for High Dimensional Point-Cloud and Single-Cell data,4.25
+UAc6RL9Tt4,Neural-Driven Image Editing,4.25
+TiE8aTc3Zg,Association-Focused Path Aggregation for Graph Fraud Detection,4.25
+SXCjvhEQZO,On Optimal Steering to Achieve Exact Fairness,4.25
+STKDn1LBam,A Few Moments Please: Scalable Graphon Learning via Moment Matching,4.25
+Rdz6ESQYkK,GraphChain: Large Language Models for Large-scale Graph Analysis via Tool Chaining,4.25
+RBiyFxwGJm,Learning-Augmented Streaming Algorithms for Correlation Clustering,4.25
+QzOBE4mi2N,FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery,4.25
+Qv0XyK5kdI,DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data,4.25
+QSK8VqiijI,Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation,4.25
+QLQqMndNoL,Practical Bayes-Optimal Membership Inference Attacks,4.25
+QIXdI207nq,LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation,4.25
+PJrvX7Jz2c,Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning,4.25
+NC7FPrUpKi,Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning,4.25
+Mat9FTfiYD,Uncertain Knowledge Graph Completion via Semi-Supervised Confidence Distribution Learning,4.25
+LfncIaLHnI,GMV: A Unified and Efficient Graph Multi-View Learning Framework,4.25
+LbNL8xGai2,S'MoRE: Structural Mixture of Residual Experts for Parameter-Efficient LLM Fine-tuning,4.25
+L8pbQy0SsG,Are Pixel-Wise Metrics Reliable for Computerized Tomography Reconstruction?,4.25
+L3UfIfNxb7,Partial Correlation Network Estimation by Semismooth Newton Methods,4.25
+KDKddNgeKo,Reinforcement learning for one-shot DAG scheduling with comparability identification and dense reward,4.25
+Jugw5alhnF,MutualVPR: A Mutual Learning Framework for Resolving Supervision Inconsistencies via Adaptive Clustering,4.25
+JjTLq7SXaB,TopER: Topological Embeddings in Graph Representation Learning,4.25
+JWmfbzw8ur,Harnessing Feature Resonance under Arbitrary Target Alignment for Out-of-Distribution Node Detection,4.25
+IpYEKM0Bla,Quantifying Distributional Invariance in Causal Subgraph for IRM-Free Graph Generalization,4.25
+Iicv9iTPcU,RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis,4.25
+Iic9I2nHdZ,On Transferring Transferability: Towards a Theory for Size Generalization,4.25
+IbzDaIDyt6,SE-GUI: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning,4.25
+IQlcfc40Ja,Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning,4.25
+IMmYPJSTPe,Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement,4.25
+H9BdN4f2vz,FedIGL: Federated Invariant Graph Learning for Non-IID Graphs,4.25
+GuvQJGgbLm,Let Me Think! A Long Chain of Thought Can Be Worth Exponentially Many Short Ones,4.25
+FDAI0PY9Qp,AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding,4.25
+DorAT49sxj,WALL-E: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents,4.25
+DlkM0q4Cvk,Dependency Matters: Enhancing LLM Reasoning with Explicit Knowledge Grounding,4.25
+Dk2qprCnu8,Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards,4.25
+D9JeNTs5Bu,ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search,4.25
+CNxrp7u5gV,Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation,4.25
+C2fJE8t0lH,TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving,4.25
+BmEH70Wjcu,Do LLMs Really Forget? Evaluating Unlearning  with Knowledge Correlation and Confidence Awareness,4.25
+BkSRQ1y37l,Cancer Survival Analysis via Zero-shot Tumor Microenvironment Segmentation on Low-resolution Whole Slide Pathology Images,4.25
+BcYfsMMpV1,Imagine360: Immersive 360 Video Generation from Perspective Anchor,4.25
+BND9CutZf6,Geometric Imbalance in Semi-Supervised Node Classification,4.25
+A4t17y2lXa,Robust Distributed Estimation: Extending Gossip Algorithms to Ranking and Trimmed Means,4.25
+9jaQTx1O8T,Secure and Confidential Certificates of Online Fairness,4.25
+9env0BdcDV,Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models,4.25
+8VkTkb6WL6,HEIR: Learning Graph-Based Motion Hierarchies,4.25
+8LO0vLRXpz,Enhancing LLM Planning for Robotics Manipulation through Hierarchical Procedural Knowledge Graphs,4.25
+7tXGIbrIA5,Graph Your Own Prompt,4.25
+7RErGDbO6K,Faster Algorithms for Structured John Ellipsoid Computation,4.25
+7F61opnmRi,Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism,4.25
+5szmKUMhB7,DMol: A Highly Efficient and Chemical Motif-Preserving Molecule Generation Platform,4.25
+5Yy2E8VWMY,"Audits Under Resource, Data, and Access Constraints: Scaling Laws For Less Discriminatory Alternatives",4.25
+5LJoDO9qYt,IDOL: Meeting Diverse Distribution Shifts with Prior Physics for Tropical Cyclone Multi-Task Estimation,4.25
+4xGJZkdjCU,On Fairness of Unified Multimodal Large Language Model for Image Generation,4.25
+4q5ZYP0ynu,Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics,4.25
+4E3I17pNEl,Yggdrasil: Bridging Dynamic Speculation and Static Runtime  for Latency-Optimal Tree-Based LLM Decoding,4.25
+4449zuaaeL,Effects of Dropout on Performance in Long-range Graph Learning Tasks,4.25
+3pix9mTbTI,Restricted Global-Aware Graph Filters Bridging GNNs and Transformer for Node Classification,4.25
+1n5TJh3LEb,Low-Rank Graphon Learning for Networks,4.25
+1Y8MXuJlIY,Localist Topographic Expert Routing: A Barrel Cortex-Inspired Modular Network for Sensorimotor Processing,4.25
+1XLjrmKZ4p,GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents,4.25
+zVkbsGlKn9,Towards Generalizable Retina Vessel Segmentation with Deformable Graph Priors,4.2
+pRysdfwXiA,Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis,4.2
+om2CpclG4y,Compositional Monte Carlo Tree Diffusion for Extendable Planning,4.2
+o4lJrA0s3I,One for All: Universal Topological Primitive Transfer for Graph Structure Learning,4.2
+eRgYGhFRgZ,Causal-R: A Causal-Reasoning Geometry Problem Solver for Optimized Solution Exploration,4.2
+NVDrWBwJTV,"The Good, the Bad and the Ugly: Meta-Analysis of Watermarks, Transferable Attacks and Adversarial Defenses",4.2
+IoSLbwZkal,On the Stability of Graph Convolutional Neural Networks: A Probabilistic Perspective,4.2
+C9653lXaFO,Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning,4.2
+AIlaBrwwJO,GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation,4.2
+6r2acwubHf,Unsupervised Federated Graph Learning,4.2
+4AAwJAsGvb,Understanding and Enhancing Message Passing on Heterophilic Graphs via Compatibility Matrix,4.2
+z6mwI6VcHA,A Compressive-Expressive Communication Framework for Compositional Representations,4.0
+yvGnOqy0Zf,Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization,4.0
+yl9LxRL5tj,Interpretable and Parameter Efficient Graph Neural Additive Models with Random Fourier Features,4.0
+yeyaKpaufr,Enforcing convex constraints in Graph Neural Networks,4.0
+yGWLWjM4nq,DiffLiG: Diffusion-enhanced Liquid Graph with Attention Propagation for Grid-to-Station Precipitation Correction,4.0
+vsLS698sBi,Attack by Yourself: Effective and Unnoticeable Multi-Category Graph Backdoor Attacks with Subgraph Triggers Pool,4.0
+vOijARaWym,Subgraph Federated Learning via Spectral Methods,4.0
+v34WBRPSon,Size-adaptive Hypothesis Testing for Fairness,4.0
+v13yQBxhut,The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics,4.0
+uO0EHn4EmE,Learning Repetition-Invariant Representations for Polymer Informatics,4.0
+uIQX0IA8nq,Graph Few-Shot Learning via Adaptive Spectrum Experts and Cross-Set Distribution Calibration,4.0
+u2c6YVg5rQ,Theoretical and Practical Analysis of Fréchet Regression via Comparison Geometry,4.0
+tmbx9zGVWb,Sampling 3D Molecular Conformers with Diffusion Transformers,4.0
+tYyzs6nFgM,GD$^2$: Robust Graph Learning under Label Noise via Dual-View Prediction Discrepancy,4.0
+tXqLxHlb8Z,AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems,4.0
+skS03tzYNw,"ShapeCraft: LLM Agents for Structured, Textured and Interactive 3D Modeling",4.0
+sdK5Ufoo2d,Curious Causality-Seeking Agents in Open-ended Worlds,4.0
+rqXEiXZT6C,What do you know? Bayesian knowledge inference for navigating agents,4.0
+r2fZv2pxMa,HyperMixup: Hypergraph-Augmented with Higher-order Information Mixup,4.0
+qup6v4WnYX,GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior,4.0
+oeMK0Js4lq,Higher-Order Learning with Graph Neural Networks via Hypergraph Encodings,4.0
+oCXyxhgCiZ,BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM,4.0
+o1g8NWkxqf,Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties,4.0
+nMLvTru6Zo,Dynamics of Spontaneous Topic Changes in Next Token Prediction with Self-Attention,4.0
+n6AfpsbD7n,Reconciling Geospatial Prediction and Retrieval via Sparse Representations,4.0
+lovTDtbsdZ,Towards a General Attention Framework on Gyrovector Spaces for Matrix Manifolds,4.0
+lg2rP98oTf,Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services,4.0
+kxiw0Mnt1y,RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization,4.0
+k4wAXbEPD6,Individual Regret in Cooperative Stochastic Multi-Armed Bandits,4.0
+jSeWBdH0Xx,Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging,4.0
+jRXgRC6fu7,SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding,4.0
+jCGwSLwOt9,Less but More: Linear Adaptive Graph Learning Empowering Spatiotemporal Forecasting,4.0
+j38Cb5LlaY,User-Instructed Disparity-aware Defocus Control,4.0
+iufaoO4OLH,Inverse Design for Text Generation with Accurate and Complex Causal Graph,4.0
+ioYzPQb7cL,Incentivizing Desirable Effort Profiles in Strategic Classification: The Role of Causality and Uncertainty,4.0
+iI7zx3ETyY,Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis,4.0
+iHXCz8c204,FLOWING: Implicit Neural Flows for Structure-Preserving Morphing,4.0
+hvykiwFiF8,Gaussian-Augmented Physics Simulation and System Identification with Complex Colliders,4.0
+hvaEMv4MVD,SALoM: Structure Aware Temporal Graph Networks with Long-Short Memory Updater,4.0
+fxxMReBRhi,Adaptive Cannistraci-Hebb Network Automata Modelling of Complex Networks for Path-based Link Prediction,4.0
+fmNQkLfsys,Revolutionizing Graph Aggregation: From Suppression to Amplification via BoostGCN,4.0
+fSPRy5uw0R,Bilevel Network Learning via Hierarchically Structured Sparsity,4.0
+fFr5GI6P5P,GLNCD: Graph-Level Novel Category Discovery,4.0
+eQ79kT0QY1,Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation,4.0
+dsUK4Xql8Z,Object-centric binding in Contrastive Language-Image Pretraining,4.0
+ckq032sarb,Relieving the Over-Aggregating Effect in Graph Transformers,4.0
+cjjPn1EIwq,ESCA: Contextualizing Embodied Agents via Scene-Graph Generation,4.0
+cWn3RXJQ7G,Is Limited Participant Diversity Impeding EEG-based Machine Learning?,4.0
+bYVxDz3JAt,Graph Diffusion that can Insert and Delete,4.0
+Z4eFqgYbha,Structure-Aware Spectral Sparsification via Uniform Edge Sampling,4.0
+Z3OtNSwuXX,Joint Relational Database Generation via Graph-Conditional Diffusion Models,4.0
+YS0a4YpQ1C,Disentangling Hyperedges through the Lens of Category Theory,4.0
+Xuvdo6oMkE,Rethinking the Role of Verbatim Memorization in LLM Privacy,4.0
+XsNi2STaj0,Overcoming Long Context Limitations of State Space Models via Context Dependent Sparse Attention,4.0
+X6djSzDKps,Bridging the Gap Between Cross-Domain Theory and Practical Application: A Case Study on Molecular Dissolution,4.0
+WtMuGdHvh6,S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection,4.0
+WkUzrUsqR9,Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation,4.0
+WK5JqIWiTW,Image Token Matters: Mitigating Hallucination in Discrete Tokenizer-based Large Vision-Language Models via Latent Editing,4.0
+Vzi96rTe4w,scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery,4.0
+Vws7eXQXsa,Graph–Smoothed Bayesian Black-Box Shift Estimator and Its Information Geometry,4.0
+Vejx32FeWt,A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning,4.0
+Uipk3FzI09,Defining and Discovering Hyper-meta-paths for Heterogeneous Hypergraphs,4.0
+UG1723eoKq,SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation,4.0
+TjWdyVWBAG,ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models,4.0
+SF2POTDz2o,STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model,4.0
+SAbQLqf8XL,NeuSymEA: Neuro-symbolic Entity Alignment via Variational Inference,4.0
+S9YexPytpi,GAMMA: Gated Multi-hop Message Passing for Homophily-Agnostic Node Representation in GNNs,4.0
+QtnCPZMxYg,Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design,4.0
+Qo5N2wXrY7,A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder,4.0
+QhKnVxk96T,MoEMeta: Mixture-of-Experts Meta Learning for Few-Shot Relational Learning,4.0
+QU1SArYwKB,Optical Coherence Tomography Harmonization with Anatomy-Guided Latent Metric Schrödinger Bridges,4.0
+OrmLtoFF60,Covariate-moderated Empirical Bayes Matrix Factorization,4.0
+OmtKcee8NA,EventMG: Efficient Multilevel Mamba-Graph Learning for Spatiotemporal Event Representation,4.0
+N2f6N4jopz,GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks,4.0
+MuxBO5f8mL,PointTruss: K-Truss for Point Cloud Registration,4.0
+LjmXrUsSrg,Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction,4.0
+Ldni3xeyIa,Topology-Aware Conformal Prediction for Stream Networks,4.0
+LNrAzsnJSE,GriNNder: Large-Scale Full-Graph Training of Graph Neural Networks on a Single GPU with Storage,4.0
+L5VPvuPMKs,Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization,4.0
+JnKfAqLJb4,ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG,4.0
+JYB6wFcbky,Graph-based Symbolic Regression with Invariance and Constraint Encoding,4.0
+JSbVO7dNYE,Towards Multiscale Graph-based Protein Learning with Geometric Secondary Structural Motifs,4.0
+JJ29N4MklH,StegoZip: Enhancing Linguistic Steganography Payload in Practice with Large Language Models,4.0
+Hxfjmc95rl,SONAR: Long-Range Graph Propagation Through Information Waves,4.0
+GStPx9lQEL,Mesh Interpolation Graph Network for Dynamic and Spatially Irregular Global Weather Forecasting,4.0
+FDX7EB9CDv,4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos,4.0
+F4LhOqhxkk,Non-Stationary Structural Causal Bandits,4.0
+EeIb2ba8F4,Characterization and Learning of Causal Graphs from Hard Interventions,4.0
+EPDLFWyNnF,Geometric Algorithms for Neural Combinatorial Optimization with Constraints,4.0
+Dm3DMOcKIA,Fair Matroid Selection,4.0
+Dbjzqvmd7t,Vector Database Watermarking,4.0
+DP7kUjUltX,On the Complexity of Verifying Quantized GNNs with Readout,4.0
+D4hcJPkJ3y,NeurIPT: Foundation Model for Neural Interfaces,4.0
+CrxR6CYeQn,Accurately Predicting Protein Mutational Effects via a Hierarchical Many-Body Attention Network,4.0
+CYh2VrTM8N,Median Selection with  Noisy  and Structural Information,4.0
+BiEwLgytGu,Multi-Objective Hyperparameter Selection via Hypothesis Testing on Reliability Graphs,4.0
+B9P4mozXYO,Decomposing motor units through elimination for real-time intention driven assistive neurotechnology,4.0
+96I0XnrjkQ,Clustering via Hedonic Games: New Concepts and Algorithms,4.0
+8pEqukyGrj,CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference via Balanced Expert Routing,4.0
+6IuURCuooO,Aligning Compound AI Systems via System-level DPO,4.0
+60I6TzuHOb,Preference-driven Knowledge Distillation for Few-shot Node Classification,4.0
+5fAtzK3hBd,ViewCraft3D: High-fidelity and View-Consistent 3D Vector Graphics Synthesis,4.0
+5Iw1nDtYmT,KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows,4.0
+4nDqyCS3h2,Protocols for Verifying Smooth Strategies in Bandits and Games,4.0
+4JLZsmWBJf,LiteReality: Graphic-Ready 3D Scene Reconstruction from RGB-D Scans,4.0
+4H3xG3aDS1,GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains,4.0
+4FUdUFvvmp,PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling,4.0
+3qeTs05bRL,Bayesian Ego-graph Inference for Networked Multi-Agent Reinforcement Learning,4.0
+3aFwsZxM5H,Structural Causal Bandits under Markov Equivalence,4.0
+3SUkvb8PRo,FlowPrune: Accelerating Attention Flow Calculation by Pruning Flow Network,4.0
+3CbwwCpsSk,Tropical Attention: Neural Algorithmic Reasoning for Combinatorial Algorithms,4.0
+36TBVGwzAY,GRIP: A Graph-Based Reasoning Instruction Producer,4.0
+2ncMTlR9nC,CamEdit: Continuous Camera Parameter Control for Photorealistic Image Editing,4.0
+2DAvXR77xh,Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation,4.0
+1BAiQmAFsx,Walking the Tightrope: Autonomous Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning,4.0
+0UGbZ0QAXi,Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models,4.0
+z9MxyboJ7R,Spatially-aware Weights Tokenization for NeRF-Language Models,3.8
+wORrUUmffG,Distance Adaptive Beam Search for Provably Accurate Graph-Based Nearest Neighbor Search,3.8
+hTGqC1h8Ig,Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs,3.8
+cFVQJepi4e,How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?,3.8
+9xto7V7oqi,Does Depth Really Hurt GNNs? Injective Message Passing Enables Deep Graph Learning,3.8
+7Nxq4RQApu,Root Cause Analysis of Outliers with Missing Structural Knowledge,3.8
+23UbkRKsZa,Causal Path Tracing in Transformers,3.8
+yrNw1R8o2W,Personalized Subgraph Federated Learning with Differentiable Auxiliary Projections,3.75
+yThwhNCaZN,KG-BiLM: Knowledge Graph Embedding via Bidirectional Language Models,3.75
+y68Q09Vc4K,DSAS: A Universal Plug-and-Play Framework for Attention Optimization in Multi-Document Question Answering,3.75
+x6pqrvXgfY,Distribution Learning Meets Graph Structure Sampling,3.75
+w1TjXJk846,Reasoning Models Sometimes Output Illegible Chains of Thought,3.75
+swf3Hbc3Qe,Learning Crossmodal Interaction Patterns via Attributed Bipartite Graphs for Single-Cell Omics,3.75
+qmvEe6nd2I,Hephaestus: Mixture Generative Modeling with Energy Guidance for Large-scale QoS Degradation,3.75
+qmbG6u7DK0,MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning,3.75
+qXSFkP0ELS,Atom of Thoughts for Markov LLM Test-Time Scaling,3.75
+otIdC4tsYf,Learning to Condition: A Neural Heuristic for Scalable MPE Inference,3.75
+nFmq9z7Mdq,Reliable Image Quality Evaluation and Mitigating Quality Bias in Generative Models,3.75
+mI9HqgVuTS,Federated Dialogue-Semantic Diffusion for Emotion Recognition under Incomplete Modalities,3.75
+kkhRTTmXFV,Local-Global Coupling Spiking Graph Transformer  for Brain Disorders Diagnosis from Two Perspectives,3.75
+kHDUCUqPEc,Future Link Prediction Without Memory or Aggregation,3.75
+ig4gfspaOq,Wavy Transformer,3.75
+iWWPtwXfnO,Sparse Diffusion Autoencoder for Test-time Adapting Prediction of Complex Systems,3.75
+hwKnBsXwXd,Point or Line? Using Line-based Representation for Panoptic Symbol Spotting in CAD Drawings,3.75
+hsf4gi5iEN,TokMan:Tokenize Manhattan Mask Optimization for Inverse Lithography,3.75
+YjZYMHvlRs,MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes,3.75
+YRh4epoqIS,Supervised Graph Contrastive Learning for Gene Regulatory Network,3.75
+TLCMyeihR9,Dependency Parsing is More Parameter-Efficient with Normalization,3.75
+R3xbcRIzUd,Role-aware Multi-agent Reinforcement Learning for Coordinated Emergency Traffic Control,3.75
+OtAiYPP6GA,On Logic-based Self-Explainable Graph Neural Networks,3.75
+OZljvntsto,Grids Often Outperform Implicit Neural Representation at Compressing Dense Signals,3.75
+OROkRBW6cu,A Learning-Augmented Dynamic Programming Approach for Orienteering Problem with Time Windows,3.75
+MYfyMjaoQh,PETIMOT: A Novel Framework for Inferring Protein Motions from Sparse Data Using SE(3)-Equivariant Graph Neural Networks,3.75
+MGvhGFCFNK,Query-Aware Graph Attention for Precise Subgraph Retrieval in Knowledge-Augmented Reasoning,3.75
+JPjMXgQQxk,Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings,3.75
+IQ3382JnQl,AH-UGC: $\underline{\text{A}}$daptive and $\underline{\text{H}}$eterogeneous-$\underline{\text{U}}$niversal $\underline{\text{G}}$raph $\underline{\text{C}}$oarsening,3.75
+BOwPpmRgmW,HoloScene: Simulation‑Ready Interactive 3D Worlds from a Single Video,3.75
+7UbXEQNny7,Beyond Components: Singular Vector-Based Interpretability of Transformer Circuits,3.75
+59n2g6RqjT,How to Auto-optimize Prompts for Domain Tasks? Adaptive Prompting and Reasoning through Evolutionary Domain Knowledge Adaptation,3.75
+4qPAOYjSlx,How Particle System Theory Enhances Hypergraph Message Passing,3.75
+2ExVHRE6jd,Graph Data Selection for Domain Adaptation: A Model-Free Approach,3.75
+1esFEjMUBS,Flow Field Reconstruction with Sensor Placement Policy Learning,3.75
+1Qo6DzdPOG,From Sequence to Structure: Uncovering Substructure Reasoning in Transformers,3.75
+1CqEAuRzHc,CVGL: Causal Learning and Geometric Topology,3.75
+0dp90Bq8r8,Non-stationary Equivariant Graph Neural Networks for Physical Dynamics Simulation,3.75
+4FUM2hlyYx,GraphFLEx: Structure Learning $\underline{\text{F}}$ramework for $\underline{\text{L}}$arge $\underline{\text{Ex}}$panding $\underline{\text{Graph}}$s,3.6666666666666665
+ypVW5jvguX,Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation,3.6
+FrQd4NoQ16,CReFT-CAD: Boosting Orthographic Projection Reasoning for CAD via Reinforcement Fine-Tuning,3.6
+rDqZjKIeda,Can Dependencies Induced by LLM-Agent Workflows Be Trusted?,3.5
+oINSSze5gI,Towards Robust Heterogeneous Graph Explanations under Structural Perturbations,3.5
+WOXyOiVd4B,FragFM: Hierarchical Framework for Efficient Molecule Generation via Fragment-Level Discrete Flow Matching,3.5
+LMKYd9JHgU,Towards Anomaly Detection on Text-Attributed Graphs,3.5
+KFPTmlW6ec,FastJAM: a Fast Joint Alignment Model for Images,3.5
+EXChZFno6e,AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models,3.5
+7fZNTLuStL,Query-Aware Subgraph Packing: A Knapsack Optimization Paradigm for Graph Retrieval-Augmented Generation,3.5
+7TY89cqLfE,Sound Logical Explanations for Mean Aggregation Graph Neural Networks,3.5
+6j9xJ9pBjm,GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling,3.5
+mUcUY0f4u9,BIPNN: Learning to Solve Binary Integer Programming via Hypergraph Neural Networks,3.25
+LDkyhsiCZQ,From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields,3.25
+KxcysQw6Ma,Continuous Domain Generalization,3.25
+BumyAsRGGm,Adjusted Count Quantification Learning on Graphs,3.25
+Wf3EbtqGdw,Compile Scene Graphs with Reinforcement Learning,3.0
+8WP2NgiRUV,Higher-Order Causal Structure Learning with Additive Models,3.0
+RWWYSBfF2f,A Deep Learning Surrogate Framework for High-Dimensional Regression Problems in Mechanical Engineering,2.75
+AhyjbXSmUN,Probabilistic Temporal Sampling for Anomaly Detection in Ethereum Networks,2.75
+CwVQGaF5A6,Max Explainability Score with Confidence Interval (MES-CI): A Quantitative Metric for Interpretability in Knowledge Graph-Based Recommender System,2.6666666666666665
+eR8raBLZW7,BriLLM: Brain-inspired Large Language Model,1.5
+hTbimOuFPM,An efficient implementation for solving the all pairs minimax path problem in an undirected dense graph,1.2

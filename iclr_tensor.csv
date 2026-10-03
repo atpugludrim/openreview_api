@@ -1,0 +1,163 @@
+ids,titles,scores
+gHPRSPxIsk,How to Square Tensor Networks and Circuits Without Squaring Them,7.0
+1FCZ4f8dAY,"Tensor learning with orthogonal, Lorentz, and symplectic symmetries",7.0
+OsevyadodL,Einstein Fields: A Neural Perspective To Computational General Relativity,6.666666666666667
+D9cnZNZfxX,TD-MoE: Tensor Decomposition for MoE Models,6.666666666666667
+a5aRjldX9l,Aligning Collaborative View Recovery and Tensorial Subspace Learning via Latent Representation for Incomplete Multi-View Clustering,6.5
+8dLexnao2h,A Scalable Distributed Framework for Multimodal GigaVoxel Image Registration,6.5
+yYPQvuaHkc,Decomposed Attention FredFormer: Large Time-series Prediction Model for Satellite Orbit Prediction,6.0
+vBJKZ19XGY,Multi-Head Low-Rank Attention,6.0
+aVGg6lRCVi,"Geometric Variational Inference: Elliptic Multi-Marginal Schrödinger Bridge, Anchor Compatibility, and Rates Entropic to Wasserstein",6.0
+aUsx1G6RVQ,FLOYDNET: A LEARNING PARADIGM FOR GLOBAL RELATIONAL REASONING,6.0
+YaZraqRsbB,FlexHiNM-GP: Flexible Hierarchical Pruning via Region Allocation and Channel Permutation,6.0
+Ssevs8KCsU,Deterministic Bounds and Random Estimates of Metric Tensors on Neuromanifolds,6.0
+QqvQ3iAdpC,"It's All Just Vectorization: einx, a Universal Notation for Tensor Operations",6.0
+GYXUD3hGTh,Improved high-dimensional estimation with Langevin dynamics and stochastic weight averaging,6.0
+BgX4s1d2d0,Combinatorial Bandit Bayesian Optimization for Tensor Outputs,6.0
+B41gsMOD26,From Prediction to Perfection: Introducing Refinement to Autoregressive Image Generation,6.0
+4tasfBIPxp,DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials,6.0
+11kPIEkj75,Semantic Uncertainty Quantification of Hallucinations in LLMs: A Quantum Tensor Network Based Method,6.0
+06I7jcrkW2,Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory,6.0
+suU6kAP6c2,Generalized Parallel Scaling with Interdependent Generations,5.5
+sSTDQSksTr,"The Multi-Block DC Function Class: Theory, Algorithms, and Applications",5.5
+nGbhxxdhqz,Maximizing Asynchronicity in Event-based Neural Networks,5.5
+mHouLSUQP5,MuonBP: Faster Muon via Block-Periodic Orthogonalization,5.5
+lxqTU8Ofb2,Bias-variance Tradeoff in Tensor Estimation,5.5
+lr4RlISR6x,PHAT: Modeling Period Heterogeneity for Multivariate Time Series Forecasting,5.5
+crOQJrWrdU,Security Tensors as a Cross-Modal Bridge: Activating Text-Aligned Safety to Vision in LVLMs,5.5
+anvRacYUHe,Learning equivariant tensor function representations via covariant algebra of binary forms,5.5
+Xvpk1g02u2,QKV Projections Require a Fraction of Their Memory,5.5
+Wr5JAZrdgO,SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models,5.5
+P1PZBR6a4S,SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization,5.5
+CWqerkDwop,Optimization-Based Defender via Coarse-To-Fine Tensor Network Representation,5.5
+3jDSqfTSrn,Is Finer Better? The Limits of Microscaling Formats in Large Language Models,5.5
+0oHaazjMUX,LeSTD: LLM Compression via Learning-based Sparse Tensor Decomposition,5.5
+w7csRoB5CO,ConvT3: Structured State Kernels for Convolutional State Space Models,5.333333333333333
+vokk8t1gnp,Weak Correlations as the Underlying Principle for Linearization of Gradient-Based Learning Systems,5.333333333333333
+bwtiK0yjuK,Change Point Localization and Inference in Dynamic Multilayer Networks,5.333333333333333
+QQZ53UtXgf,"Shuffling the Data, Extrapolating the Step: Sharper Bias In Constant Step-Size SGD",5.333333333333333
+uvgJM9RQ6T,MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling,5.2
+DZ76Xr7zct,Joint Structure Search for Tensor Network Operators Inspired by Symmetry Breaking,5.2
+yR5QX5cTEy,Efficient AllReduce with Stragglers,5.0
+yMMb3rCuNM,Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning,5.0
+rVrWNb2XLi,SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices,5.0
+qSak1Hjfdq,All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation,5.0
+mp0rPiYHPi,MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning,5.0
+i6nuapVUDZ,Fast and Expressive Multi-Token Prediction with Probabilistic Circuits,5.0
+gvboE2A04D,Mechanistically Eliciting Latent Behaviors in Language Models,5.0
+amivrmQyvQ,Poly-attention: a general scheme for higher-order self-attention,5.0
+UJvkXnuozY,Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory,5.0
+Q2D1PI6zY1,On Universality of Deep Equivariant Networks,5.0
+HufTLkTOJh,Permutation Equivariant Neural Networks for Antisymmetric Tensors,5.0
+FkaDML963W,KVLinC: KV Cache Quantization with Hadamard Rotation and Linear Correction,5.0
+8slDXCAVXS,Sublinear Time Quantum Sensitivity Sampling,5.0
+5S8ruWKe8l,Fast and Stable Riemannian Metrics on SPD Manifolds via Cholesky Product Geometry,5.0
+4hKNGmjXVQ,Transformers as Unsupervised Learning Algorithms: A study on Gaussian Mixtures,5.0
+1GkzDABbME,Learning Mixtures of Linear Dynamical Systems (MoLDS) via Hybrid Tensor–EM Method,5.0
+sdbvTqONk4,Refining Dual Spectral Sparsity in Transformed Tensor Singular Values,4.666666666666667
+eM51kSFkoG,Batch Speculative Decoding Done Right,4.666666666666667
+cvZhXILRLI,Bayesian Neural Networks for Functional ANOVA Model,4.666666666666667
+ZgLEEp7AwL,Towards Sampling Data Structures for Tensor Products in Turnstile Streams,4.666666666666667
+CyVUxyDc4U,IDAP++: Advancing Divergence-Based Pruning via Filter-Level and Layer-Level Optimization,4.666666666666667
+5xBT5Ziute,MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials,4.666666666666667
+5OJLOwwXV4,High-dimensional limit theorems for SGD: Momentum and Adaptive Step-sizes,4.666666666666667
+3Tdj7p9uK3,PLUMAGE: probablistic low-rank unbiased min variance gradient estimation framework for efficient large model training,4.666666666666667
+ytIwlWzo0M,Pro-Trans: Progressive Tensor Ring with Attention Guided Local Smoothing Regularization,4.5
+ySp8faVj6k,SAQ: Stabilizer-Aware Quantum Error Correction Decoder,4.5
+pYW3WeOwHV,Optimal Formats for Weight Quantisation,4.5
+lTr1dv6A26,Low-Rank Tensor Encoding Models Decompose Natural Speech Comprehension Processes,4.5
+hABW989AOr,Tensor Power Methods: Faster and Robust for Arbitrary Order,4.5
+apDaK255Ma,Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames,4.5
+ZQcDUhEOg9,AdaGC: Improving Training Stability for Large Language Model Pretraining,4.5
+SX9A72RPU3,Structured covariance estimation via tensor-train decomposition,4.5
+P5OKoZdwlB,MicroMix: Efficient Mixed-Precision Quantization with Microscaling Formats for Large Language Models,4.5
+O2WvMkJbws,ES-dLLM: Efficient Inference for Diffusion Large Language Models by Early-Skipping,4.5
+NE6g1C90LT,Domain-Aware Tensor Network Structure Search,4.5
+M3N7z1mgJ1,NeuroSlice: Forward Selection-Based LLM Pruning via Neuron Contribution Decomposition,4.5
+Lhsy6DYUtS,RingLight-GS: A compact and expressive framework for modeling scene color in 3DGS,4.5
+IFCUMN8Fp1,Towards Learning POMDPs Without Full Observability,4.5
+Cr0uXv9Jl5,Learning Flow-Guided Registration for RGB–Event Semantic Segmentation,4.5
+AzZB0BaeT4,Recover Cell Tensor: Diffusion-Equivalent Tensor Completion for Fluorescence Microscopy Imaging,4.5
+ACn1rbjlFB,Adversarial Attack on Tensor Ring Decomposition,4.5
+6lobo2PXdl,The Power of Small Initialization in Noisy Low-Tubal-Rank Tensor Recovery,4.5
+0fgsHvmBBI,AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism,4.5
+yfBs0GQxx9,Sparling: End-to-End Spatial Concept Learning via Extremely Sparse Activations,4.0
+yTWKqbCKyZ,Theoretical Constraints on the Expressive Power of RoPE-based Tensor Attention Transformers,4.0
+y6piOp5MSO,GeoPE:A Unified Geometric Positional  Embedding for Structured Tensors,4.0
+xa3oLRQG55,Solvable Gradient Flow Through Diagram Expansions,4.0
+wM7uVwV1Za,T-GINEE: A Tensor-Based Multi-Graph Representation Learning,4.0
+vycvHlBzGP,TeZO: Empowering the Low-Rankness on the Temporal Dimension in the Zeroth-Order Optimization for Fine-tuning LLMs,4.0
+umAACdl2uX,Factor Graph Optimization for Belief Propagation Decoding,4.0
+tz5yPWZp9W,TRAC: Tensor-Train based Across-layer Compression for Parameter-Efficient Fine-Tuning,4.0
+skRDw08ql6,Private and interpretable clinical prediction with quantum-inspired tensor train models,4.0
+sZGAPq2W2t,TS-TPR: Tensor Product Representation for Multivariate Time Series Forecasting,4.0
+lXjikXmOTN,Training Tensor Attention Efficiently: From Cubic to Almost Linear Time,4.0
+kv22NbU2T2,Subspace Kernel Learning on Tensor Sequences,4.0
+kIpCoJNULS,Tensor Train Diffusion: A Fast Solver for High-Dimensional Sampling,4.0
+jq57XPA0zO,NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks,4.0
+it43RZpQXO,Multi-Linear Subspace Distance: A New Criterion for Tensor Feature Selection,4.0
+isfDsSR3AM,FG-ATTN: LEVERAGING FINE-GRAINED SPARSITY IN DIFFUSION TRANSFORMERS,4.0
+guXFowAqLQ,Time series saliency maps: Explaining models across multiple domains,4.0
+X0CYp42qwx,GeneLLM: Inheriting 1.25% of MoE-LLMs to Build Models of 8% Size that Retain 80% Performance,4.0
+VG55KBaUDo,Zeros can be Informative: Masked Binary U-Net for Image Segmentation on Tensor Cores,4.0
+TfJ67nPJl2,Extending $\mu$P: Spectral Conditions for Feature Learning Across Optimizers,4.0
+SLBcDQvBbh,Quantization Meets Sparsification for Faster Image Generation,4.0
+ICbrBVE11Y,Progressive Residual Tensor Networks for Adversarial Purification,4.0
+GwHtOZsBRV,LAVA: A UNIFIED FRAMEWORK FOR FINETUNING LANGUAGE AND VISION MODELS,4.0
+9pqzSyIDu5,CP Merging: Joint LoRA Merging using Canonical Polyadic Decomposition,4.0
+9cnmFpWft0,Sketching Faster than Dimension Times Update Time,4.0
+8wm1HEfPss,Geometry-Aware 6-DoF Grasp Detection in Complex Scenes,4.0
+65s5CctH7I,Symmetry-Guaranteed Prediction of High-Order Tensor Properties for Crystalline Materials via Irreducible Decomposition,4.0
+0QIGCysJ1K,FATE: Focal-modulated Attention Encoder for Multivariate Time-series Forecasting,4.0
+FCFM3Yxtsm,One for all: Zero-Shot Cross-Hardware Performance Modeling with LLMs for Tensor Program Tuning,3.6
+xvzwLMgX3U,"Soft Constraints, Strong Solutions: Optimizing Intra-Operator Parallelism for Distributed Deep Learning",3.5
+tlyi0cShxS,MSFT: Mitigating Spurious Correlations in Text Classification via Feature Induction in Embedding Layers and Tensor Stretching,3.5
+jHF5nJI1Rl,Revisiting Atomic Rounding with Vectorized Reparameterization for LLM Quantization,3.5
+aPJeT2Ii3u,FINE-GRAINED ENERGY PREDICTION FOR PARALLELIZED LLM INFERENCE WITH PIE-P,3.5
+QczicjUJau,Efficient Learning of Probabilistic Tensor Networks,3.5
+OGvXBluCHd,HandReader: Advanced Techniques for Efficient Fingerspelling Recognition,3.5
+IeNXtofK6T,PromptArmor: An Essential Baseline for Prompt Injection Defenses,3.5
+GNKIV7oSl2,KVCompose: Efficient Structured KV Cache Compression with Composite Tokens,3.5
+Dxb9zYD23D,Time Series as Videos: Spectro-Temporal Generative Diffusion,3.5
+2tNlroZztK,HOBA: Higher-Order Block-Diagonal Attention Unrolling for Transformer,3.5
+ZkfQikqVI5,White-Box Prompt Transformers: Variationally Grounded Prompt–Attention Coupling for Unified Image Restoration,3.3333333333333335
+RQD1NgmYz6,OODEEL: A Holistic Library for Unified Post-Hoc OOD Detection Research And Application,3.3333333333333335
+MQucws0B1g,Constructing Invariant and  Equivariant Operations by Symmetric Tensor Network,3.3333333333333335
+67KERrQ3id,OSCAR: Orthogonalized Sequential Component Analysis for Tensor-on-Tensor Regression,3.3333333333333335
+xbW0fytR2D,sparseGeoHOPCA: A Geometric Solution to Sparse Higher-Order PCA Without Covariance Estimation,3.2
+Asvt8BAaZT,When Can You Get Away with Low Memory Adam?,3.2
+fUcaE2NEOH,Constraint-Aware Discrete Black-Box Optimization Using Tensor Decomposition,3.0
+eP1UcOigEH,Learning Fine-grained Parameter Sharing via Sparse Tensor Decomposition,3.0
+WUZNREVaoP,Neural Weight Compression for Language Models,3.0
+TkgB6sFoE2,TNCME: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Multimodal Embeddings,3.0
+QqpbjtPbIc,On 10X Better Scalability: KV Stores Scale Up KV Cache,3.0
+Mc4AIAvS4R,AURA: Augmented Representation for Unified Accuracy-aware Quantization,3.0
+M9SgtgvF7l,Joint Encoding of KV-Cache Blocks for Scalable LLM Serving,3.0
+JR1emTWT1D,A stochastic gradient method for trilevel optimization,3.0
+IlYoGAEz8Y,Equivariant Spherical Transformer for Efficient Molecular Modeling,3.0
+0I2N8KxOAo,DeFa: Non-Stationary Decomposition and Factorized Forecasting for Multivariate Time Series,3.0
+PuwLIxUTDq,ParaSMoE: Enabling Parallelism Hot-Switch for Large Mixture-of-Experts Models,2.8
+H5mWJwM20M,Towards a Unified Theory of Quantization and Sparsity,2.6666666666666665
+kBRXrAkqR2,SplitQuant: Efficient Low-Bit Quantization for Diffusion Transformers via In-Channel Dimension Splitting,2.5
+idXIbOfm8d,JET-Diff: Joint-Encoding Tensor Diffusion Model for Accurate DTI Reconstruction from Sparse DWIs,2.5
+gePt0CLtHl,SIDGEN - Structure-Informed Diffusion for Generative Modeling of Ligands for Proteins,2.5
+aQ6RiOijal,Tucker-KV: Provable Tucker Compression of KV Caches with Monotone Refinement and Near-Optimal Budgeting,2.5
+ScEgZR6x9r,$X$-Planes: Adaptive and Efficient Representation for Dynamic Reconstruction and Rendering in the Age of Large Pretrained Models,2.5
+SFUMPoEQoC,Leveraging Instruction Language Model to Generate Vectorized RISC-V Tensor Programs,2.5
+JrZMFC6Jgo,THE BLACK–WHITE-BOX OPTIMIZATION NETWORK,2.5
+BamabJR7Ed,Five-Mode Tucker-LoRA for Video Diffusion on Conv3D Backbones,2.5
+7OT8OUhOFb,The Smart Buildings Control Suite: A Diverse Open Source Benchmark to Evaluate and Scale HVAC Control Policies for Sustainability,2.5
+5NpCMdGy1A,Energy Guided Geometric Flow Matching,2.5
+3LUPcnEmwk,What's Inside Your Diffusion Model? A Score-Based Riemannian Metric to Explore the Data Manifold,2.5
+nYSqyzEp3G,Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic,2.4
+QxoyccprRp,A Gauge-Theory-based Graph Neural Network,2.4
+gujp6mwpNJ,Pick‑and‑Unfold: Mode‑Aware Non‑Linear Tucker Autoencoder for Tensorial Deep Learning,2.0
+beV5wMTRIq,Physics-Aware Tensor Field Neural PDE for Climate and Weather Prediction,2.0
+Z2Dxz2gLWI,$(MPO)^2$: Multivariate Polynomial Optimization based on Matrix Product Operators,2.0
+OEXOAMvsc6,Elucidating the Design Space of FP4 training,2.0
+MNOrwRlchp,Equivariant Geodesic Networks: Geometry Preserving Learning on Riemannian Manifolds,2.0
+KyIdMdPiEX,Stance Elicitation as a Black-Box Framework for Auditing LLM Alignment,2.0
+Eq6HyDO6bR,Multi-level meta-reinforcement learning with skill-based curriculum,2.0
+3YUL5LJ3s4,DC-LLM: HARDWARE-FRIENDLY LLM WEIGHT COMPRESSION VIA DYNAMIC LINEAR COMBINATION,2.0
+mVFFqmvkDi,GP-STPCA: Generalized Power Method for Sparse Tensor Principal Component Analysis,1.5
+WlZZcV67uz,Physics Aware Neural Networks : Denoising for Magnetic Navigation,1.5

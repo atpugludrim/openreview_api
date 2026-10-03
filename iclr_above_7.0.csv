@@ -1,0 +1,250 @@
+ids,titles,scores
+VaS6xcDrTb,Special Unitary Parameterized Estimators of Rotation,8.5
+yRtgZ1K8hO,The Polar Express: Optimal Matrix Sign Methods and their Application to the Muon Algorithm,8.0
+sSbEEHNEsL,Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition,8.0
+qOyF214xmg,Transducing Language Models,8.0
+oBXfPyi47m,Efficient Reinforcement Learning by Guiding World Models with Non-Curated Data,8.0
+nCsF3Bsn2n,Probabilistic Kernel Function for Fast Angle Testing,8.0
+kkBOIsrCXh,Embodied Navigation Foundation Model,8.0
+kI27Niy4xY,Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator,8.0
+b8TlYh6PN6,Distributional Equivalence in Linear Non-Gaussian Latent-Variable Cyclic Causal Models: Characterization and Learning,8.0
+WPgaGP4sVS,TamperTok: Forensics-Driven Tokenized Autoregressive Framework for Image Tampering Localization,8.0
+VKGTGGcwl6,LLMs Get Lost In Multi-Turn Conversation,8.0
+UJ2UUjT2ko,Mixing Mechanisms: How Language Models Retrieve Bound Entities In-Context,8.0
+RDerF20JYT,La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching,8.0
+LGmO9VvuP5,$\tau^2$-bench: : Evaluating Conversational Agents in a Dual-Control Environment,8.0
+DTQIjngDta,$\pi^3$: Permutation-Equivariant Visual Geometry Learning,8.0
+DM0Y0oL33T,Generative Universal Verifier as Multimodal Meta-Reasoner,8.0
+Ahdsg2nkNH,Multilevel Control Functional,8.0
+9upf6JVssk,MixtureVitae: Open Web-Scale Pretraining Dataset With High Quality Instruction and Reasoning Data Built from Permissive Text Sources,8.0
+9gw03JpKK4,Gaia2: Benchmarking LLM Agents on Dynamic and  Asynchronous Environments,8.0
+3YKeB9R1g9,Scaling with Collapse: Efficient and Predictable Training of LLM Families,8.0
+248ysaRatx,Feedback-driven recurrent quantum neural network universality,8.0
+zrFnwRHuQo,On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning,7.5
+yjrVOxjkDR,Persona Features Control Emergent Misalignment,7.5
+y3oHMcoItR,RealBench: A Benchmark for Complex Physical Systems with Real-World Data,7.5
+vPSiCA3CkD,Nesterov Finds GRAAL: Optimal and Adaptive Gradient Method for Convex Optimization,7.5
+qyVzZsrsnS,Narrow Finetuning Leaves Clearly Readable Traces in the Activation Differences,7.5
+qclNnbjxNJ,Characterization and Learning of Causal Graphs with Latent Confounders and Post-treatment Selection from Interventional Data,7.5
+nHrYBGujps,BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions,7.5
+mytIKuRsSE,Learning with Dual-level Noisy Correspondence for Multi-modal Entity Alignment,7.5
+lbLAgGF8OO,An Improved Model-free Decision-estimation Coefficient with Applications in Adversarial MDPs,7.5
+kmK3WSCOCT,From Markov to Laplace: How Mamba In-Context Learns Markov Chains,7.5
+gDxJK8yvZU,Minimax-Optimal Aggregation for Density Ratio Estimation,7.5
+ck0aZTAnwK,Pre-training under infinite compute,7.5
+ZfdnZhOP0k,Hubble: a Model Suite to Advance the Study of LLM Memorization,7.5
+ZF0xRAdsuY,Bound by semanticity: universal laws governing the generalization-identification tradeoff,7.5
+Vsgq2ldr4K,Reasoning without Training: Your Base Model is Smarter Than You Think,7.5
+VPtHqcafIY,Transformers Don’t Need LayerNorm at Inference Time: Scaling LayerNorm Removal to GPT-2 XL and Implications for Mechanistic Interpretability,7.5
+VAv1rrPR1A,Mechanism of Task-oriented Information Removal in In-context Learning,7.5
+TgLW2DiRDG,Characterizing the Discrete Geometry of ReLU Networks,7.5
+SzXDuBN8M1,TD-JEPA: Latent-predictive Representations for Zero-Shot Reinforcement Learning,7.5
+RpX0k5RR6q,Relative Scaling Laws for LLMs,7.5
+QlRlE7a1p4,FullPart: Generating each 3D Part at Full Resolution,7.5
+P0GOk5wslg,Speculative Actions: A Lossless Framework for Faster AI Agents,7.5
+Gk7gLAtVDO,Is it Thinking or Cheating?  Detecting Implicit Reward Hacking by Measuring Reasoning Effort,7.5
+FtL9eEmU6v,EditBench: Evaluating LLM Abilities to Perform Real-World Instructed Code Edits,7.5
+FMjeC9Msws,The Art of Scaling Reinforcement Learning Compute for LLMs,7.5
+EEr6cADbZx,Back to Square Roots: An Optimal Bound on the Matrix Factorization Error for Multi-Epoch Differentially Private SGD,7.5
+8KcjEygedc,Why Less is More (Sometimes): A Theory of Data Curation,7.5
+7mCo3R3Wyn,TEMPFLOW-GRPO: WHEN TIMING MATTERS FOR GRPO IN FLOW MODELS,7.5
+7cMzTpbJHC,Temporal superposition and feature geometry of RNNs under memory demands,7.5
+55e5f3GVFc,Protein Structure Tokenization via Geometric Byte Pair Encoding,7.5
+3JPAkwSVc4,Quotient-Space Diffusion Model,7.5
+2eAGrunxVz,"Spherical Watermark: Encryption-Free, Lossless Watermarking for Diffusion Models",7.5
+1PIfB5w05x,Price of Quality: Sufficient Conditions for Sparse Recovery using Mixed-Quality Data,7.5
+17DNmdQ9aU,StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient SpeechLLMs,7.5
+zUbBaWAM1Q,Symmetry-Aware Bayesian Optimization via Max Kernels,7.333333333333333
+z28PLIEj6l,FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction,7.333333333333333
+y3UkklvoW9,THEMIS: Towards Holistic Evaluation of MLLMs for Scientific Paper Fraud Forensics,7.333333333333333
+xz3hPommuG,Representational Alignment Across Model Layers and Brain Regions with Hierarchical Optimal Transport,7.333333333333333
+wTGcb3DxOn,LLM Pretraining with Continuous Concepts,7.333333333333333
+uobROwBsJm,MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use,7.333333333333333
+txiGUfI4yF,Latent Stochastic Interpolants,7.333333333333333
+rhPnkTKfMy,Nemotron-CC-Math: A 133 Billion-Token-Scale High Quality Math Pretraining Dataset,7.333333333333333
+rAjHUNXybH,Computational Bottlenecks for Denoising Diffusions,7.333333333333333
+mHRuCmc9lo,Robust Decision-Making with Partially Calibrated Forecasters,7.333333333333333
+m7AQM9H6wa,MTVCraft: Tokenizing 4D Motion for Arbitrary Character Animation,7.333333333333333
+lTaPtGiUUc,Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling,7.333333333333333
+kt51kZH4aG,X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model,7.333333333333333
+jhan3NJ5x1,Physics-Guided Motion Loss for Video Generation Model,7.333333333333333
+jNiEMDsRgc,Dropping Just a Handful of Preferences Can Change Top Large Language Model Rankings,7.333333333333333
+iM4o9a83F7,Estimating Dimensionality of Neural Representations from Finite Samples,7.333333333333333
+gdZ6J5hZzF,Sequences of Logits Reveal the Low Rank Structure of Language Models,7.333333333333333
+fSE0rUngCX,Multimodal Policy Internalization for Conversational Agents,7.333333333333333
+dTWfCLSoyl,In-Place Test-Time Training,7.333333333333333
+c5mdo1hWrs,FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel,7.333333333333333
+biegtqdqmg,TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction,7.333333333333333
+bFYfV6c9zu,Differentiable Model Predictive Control on the GPU,7.333333333333333
+a7Qa4CcHak,"Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",7.333333333333333
+a4Got6azjF,Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?,7.333333333333333
+XUVqFRp9oi,"Fewer Battles, More Gain: An Information-Efficient Framework for Arena-based LLM Evaluation",7.333333333333333
+VJZ477R89F,DiffusionNFT: Online Diffusion Reinforcement with Forward Process,7.333333333333333
+Timsb74vIY,Provable Guarantees for Automated Circuit Discovery in Mechanistic Interpretability,7.333333333333333
+SyQqXAdWUq,InclusiveVidPose: Bridging the Pose Estimation Gap for Individuals with Limb Deficiencies in Video-Based Motion,7.333333333333333
+Qo0OZZoTLh,"Virtual Community: An Open World for Humans, Robots, and Society",7.333333333333333
+Mf5AleTUVK,In-The-Flow Agentic System Optimization for Effective Planning and Tool Use,7.333333333333333
+M4RKeHIAxw,CoDA: Agentic Systems for Collaborative Data Visualization,7.333333333333333
+JEYWpFGzvn,InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression,7.333333333333333
+JC8xYAADHL,Safe Exploration via Policy Priors,7.333333333333333
+IdW0d0mRnG,Asymptotic analysis of shallow and deep forgetting in replay with neural collapse,7.333333333333333
+DzvPiqh23f,Self-Forcing++: Towards Minute-Scale High-Quality Video Generation,7.333333333333333
+DcVg87ibK9,Does FLUX Already Know How to Perform Physically Plausible Image Composition?,7.333333333333333
+CiZMMAFQR3,LeRobot:  An Open-Source Library for End-to-End Robot Learning,7.333333333333333
+AeehNfbHqD,Improving Human-AI Coordination through Online Adversarial Training and Generative Models,7.333333333333333
+AUXvYQlQLZ,The Coverage Principle: How Pre-Training Enables Post-Training,7.333333333333333
+9bkzvYw9ds,Causal Time Series Generation via Diffusion Models,7.333333333333333
+8fViWZ0yZJ,Discovering alternative solutions beyond the simplicity bias in recurrent neural networks,7.333333333333333
+zHdKaF3ZM7,Weight-Space Linear Recurrent Neural Networks,7.2
+KmMEQOtXAy,Metric $k$-clustering using only Weak Comparison Oracles,7.2
+D0u0glT060,Deconstructing Positional Information: From Attention Logits to Training Biases,7.2
+A4Us8jxVGq,How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability,7.2
+7dvYWzOiEu,Meta-Learning Theory-Informed Inductive Biases using Deep Kernel Gaussian Processes,7.2
+z8ggdMlSco,S2GO: Streaming Sparse Gaussian Occupancy,7.0
+yirunib8l8,Depth Anything 3: Recovering the Visual Space from Any Views,7.0
+yKDqg9HwZX,MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interaction,7.0
+yDmb7xAfeb,WoW!: World Models in a Closed-Loop World,7.0
+y0UxFtXqXf,What matters for Representation Alignment: Global Information or Spatial Structure?,7.0
+xIycolc5Xw,Instance-Dependent Fixed-Budget Pure Exploration in Reinforcement Learning,7.0
+wnIanx0r0w,Efficient algorithms for Incremental Metric Bipartite Matching,7.0
+vjEl1PuIDE,AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration,7.0
+vI56m4Iu4e,MemGen: Weaving Generative Latent Memory for Self-Evolving Agents,7.0
+vH7OAPZ2dR,GLASS Flows: Efficient Inference for Reward Alignment of Flow and Diffusion Models,7.0
+vFfujX5Ygn,Revisiting Nonstationary Kernel Design for Multi-Output Gaussian Processes,7.0
+vEh1ceS154,Partition Generative Modeling: Masked Modeling Without Masks,7.0
+vAU1fo1zRV,Dimension-Free Decision Calibration for Nonlinear Loss Functions,7.0
+uRA9cT4MK6,Relationship Alignment for View-aware Multi-view Clustering,7.0
+uJCGMBO6Qx,When Is Diversity Rewarded in Cooperative Multi-Agent Learning?,7.0
+u6JLh0BO5h,Jet Expansions: Restructuring LLM Computation for Model Inspection,7.0
+tc2UsBeODW,VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models,7.0
+tYppHuGhxJ,Kimi-Dev: Agentless Training as Skill Prior for SWE-agents,7.0
+tQJYKwc3n4,RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots,7.0
+tIVCfVnIHo,Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation,7.0
+sSfep4udCb,To Infinity and Beyond: Tool-Use Unlocks Length Generalization in State Space Models,7.0
+sPRK6XefjY,On the Lipschitz Continuity of Set Aggregation Functions and Neural Networks for Sets,7.0
+r35clVtGzw,SAM 3: Segment Anything with Concepts,7.0
+qmCpJtFZra,Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute,7.0
+qjJWxK3yWo,AudioX: A Unified Framework for Anything-to-Audio Generation,7.0
+qNlTH4kYJZ,AdAEM: An Adaptively and Automated Extensible Evaluation Method of LLMs' Value Difference,7.0
+pfw176o1YJ,Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training,7.0
+oeoCgcYIyf,Coupled Transformer Autoencoder for Disentangling Multi-Region Neural Latent Dynamics,7.0
+oRYzpI3cmJ,Command-V: Training-Free Representation Finetuning Transfer,7.0
+oN55r8iJJW,SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation,7.0
+nM2QhvybwI,Using cognitive models to reveal value trade-offs in language models,7.0
+mnI8CFj2WP,Unified Cross-Scale 3D Generation and Understanding via Autoregressive Modeling,7.0
+mKgUAO41zf,Binomial Gradient-Based Meta-Learning for Enhanced Meta-Gradient Estimation,7.0
+mIeKe74W43,Mean Flow Policy with Instantaneous Velocity Constraint for One-step Action Generation,7.0
+mA78uXqcnl,Causal Structure Learning in Hawkes Processes with Complex Latent Confounder Networks,7.0
+ljM1HTSH9c,Explainable $ K $-means Neural Networks for Multi-view Clustering,7.0
+l3KtyVZde3,Slicing Wasserstein over Wasserstein via Functional Optimal Transport,7.0
+kpLRYtPGt3,Neon: Negative Extrapolation From Self-Training Improves Image Generation,7.0
+koKWoKaMrE,Tversky Neural Networks: Psychologically Plausible Deep Learning with   Differentiable Tversky Similarity,7.0
+kK7PbRzqGk,Efficient Learning on Large Graphs using a Densifying Regularity Lemma,7.0
+hqq6GyYISN,Fair Decision Utility in Human-AI Collaboration: Interpretable Confidence Adjustment for Humans with Cognitive Disparities,7.0
+hRY0ytSnM0,Energy-Efficient Random Variate Generation via Compressed Lookup Tables,7.0
+hPOImB2mZW,Operator Theory-Driven Autoformulation of MDPs for Control of Queueing Systems,7.0
+h06l9w1clt,Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation,7.0
+gqCh1k0CEX,StochasTok: Improving Fine-Grained Subword Understanding in LLMs,7.0
+gHPRSPxIsk,How to Square Tensor Networks and Circuits Without Squaring Them,7.0
+fbGmSV6tUw,Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations,7.0
+d1wuA8oIH0,EquAct: An SE(3)-Equivariant Multi-Task Transformer for 3D Robotic Manipulation,7.0
+cPxmLZmFa7,Local Entropy Search over Descent Sequences for Bayesian Optimization,7.0
+cJseWJJ5IM,Efficient Reasoning with Balanced Thinking,7.0
+azj53PLJRL,Image Quality Assessment for Embodied AI,7.0
+aVeaNahsID,Zephyrus: An Agentic Framework for Weather Science,7.0
+aTP1IM6alo,VoMP: Predicting Volumetric Mechanical Property Fields,7.0
+a4S1nQay3b,Uncover Underlying Correspondence for Robust Multi-view Clustering,7.0
+ZgCCDwcGwn,AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL,7.0
+ZMzha5gbnF,Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability,7.0
+ZLJsJ8IWUz,Dynamic Kernel Graph Sparsifiers,7.0
+ZAflv4dxQ9,Improving Online-to-Nonconvex Conversion for Smooth Optimization via Double Optimism,7.0
+Yxz92UuPLQ,Transformers are Inherently Succinct,7.0
+YhgBy6jTR8,Low-Pass Filtering Improves Behavioral Alignment of Vision Models,7.0
+Xpj0yeMhpz,Decoupling the Class Label and the Target Concept in Machine Unlearning,7.0
+XOPH34Extq,TabStruct: Measuring Structural Fidelity of Tabular Data,7.0
+X7JfjLKKLQ,Diagnosing and Improving Diffusion Models by Estimating Optimal Loss Value,7.0
+Wz0ILlbh9U,Temporal Generalization: A Reality Check,7.0
+VbTLgEUocp,LLMs Can Hide Text in Other Text of the Same Length,7.0
+VXB4xxAgOf,Discrete Adjoint Matching,7.0
+VCjlm003WL,Characterizing Pattern Matching and Its Limits on Compositional Task Structures,7.0
+UUE6HEtjhu,AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory,7.0
+URbsHlTK8c,Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers,7.0
+UOzxviKVFO,Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization,7.0
+Tke3BVwUz6,Correlated Policy Optimization in Multi-Agent Subteams,7.0
+TeDkzf34hs,Dynamical properties of dense associative memory,7.0
+TQhSodCM4r,SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning,7.0
+TLSUIyBIfs,Quantitative Bounds for Length Generalization in Transformers,7.0
+RzYXb5YWBs,LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation,7.0
+RSIoYWIzaP,"The Diffusion Duality, Chapter II: $\Psi$-Samplers and Efficient Curriculum",7.0
+RJXwuAMUiI,The Effect of Attention Head Count on Transformer Approximation,7.0
+QFJkvv3zMi,EgoTwin: Dreaming Body and View in First Person,7.0
+QCB0HN61TU,Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs,7.0
+Q3yLIIkt7z,Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime,7.0
+Q1JpRZkR3S,Scalable Spatio-Temporal SE(3) Diffusion for Long-Horizon Protein Dynamics,7.0
+PGUC3mmMoi,RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation,7.0
+ORv3SAzus1,Train-before-Test Harmonizes Language Model Rankings,7.0
+OJupg4mDjS,On the Wasserstein Geodesic Principal Component Analysis of probability measures,7.0
+Ml8t8kQMUP,Exploratory Causal Inference in SAEnce,7.0
+M7TNf5J26u,AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite,7.0
+LfkPlFTfe0,Human-Object Interaction via Automatically Designed VLM-Guided Motion Policy,7.0
+L8SMNWsxfK,Automata Learning and Identification of the Support of Language Models,7.0
+Krxt7wCnig,Long-range Modeling and Processing of Multimodal Event Sequences,7.0
+KAGR7Mqu4h,Unified and Efficient Multi-view Clustering from Probabilistic Perspective,7.0
+Jz5SA2KoFt,Enabling Your Forensic Detector Know ​How Well​ It Performs on Distorted Samples,7.0
+JjJzbMDGsx,Language Confusion Gate: Language-Aware Decoding Through Model Self-Distillation,7.0
+Jb1WkNSfUB,TileLang: Bridge Programmability and Performance in Modern Neural Kernels,7.0
+JTX0iqxBjk,Output Supervision Can Obfuscate the Chain of Thought,7.0
+IwiwmY3Mzz,A Reward-Free Viewpoint on Multi-Objective Reinforcement Learning,7.0
+Ir0HMkRpYb,StylOS: Multi-View 3D Stylization with Single-Forward Gaussian Splatting,7.0
+IVAlYCqdvW,Sapiens2,7.0
+HwCvaJOiCj,Mamba-3: Improved Sequence Modeling using State Space Principles,7.0
+HhThhjKyfw,WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training,7.0
+HF60Lu1Maj,Deep Learning for Subspace Regression,7.0
+HB6KvsqcAn,Towards Physically Executable 3D Gaussian for Embodied Navigation,7.0
+Gwe6gbGng5,Cautious Weight Decay,7.0
+GMlZt4fZSY,Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,7.0
+GMR9BUsPbq,BANZ-FS: BANZSL Fingerspelling Dataset,7.0
+GH7z1RURL6,SelvaBox: A high‑resolution dataset for tropical tree crown detection,7.0
+GG7YQnsdhp,Adaptive Social Learning via Mode Policy Optimization for Language Agents,7.0
+FbssShlI4N,FALCON: Few-step Accurate Likelihoods for Continuous Flows,7.0
+EplNy91Xqh,SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning,7.0
+EhDgP69DJG,PMark: Towards Robust and Distortion-free Semantic-level Watermarking with Channel Constraints,7.0
+EUAXc9Hlvm,Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning,7.0
+EOV1q1U23N,Convergence of Regret Matching in Potential Games and Constrained Optimization,7.0
+DsS3xRPSs5,Test-Time Alignment for Large Language Models via Textual Model Predictive Control,7.0
+DTqbEtXXP3,Branch and Bound Search for Exact MAP Inference in Credal Networks,7.0
+BkyyIfTEgG,"On Differential Private $\ell_1$, $\ell_2$ and $\ell_p^p$ Distance Queries",7.0
+Bf4FeuW0Mr,DemoGrasp: Universal Dexterous Grasping from a Single Demonstration,7.0
+BVnIsh4Nz1,On the Reasoning Abilities of Masked Diffusion Language Models,7.0
+BRoAjhYWoQ,Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling,7.0
+BDnOrExHmt,PixNerd: Pixel Neural Field Diffusion,7.0
+AcTsKglDdh,DataMIL: Selecting Data for Robot Imitation Learning with Datamodels,7.0
+9vlS8PSGG7,Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization,7.0
+9ZrjgzlAuh,HDR-4DGS: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos,7.0
+96DTvuYq4h,Uncertainty-Aware 3D Reconstruction for Dynamic Underwater Scenes,7.0
+8s5jBVybhQ,Remotely Detectable Robot Policy Watermarking,7.0
+8hMaqBagPd,Learning to Play Multi-Follower Bayesian Stackelberg Games,7.0
+80JylHgQn1,Instilling an Active Mind in Avatars via Cognitive Simulation,7.0
+7UfZAxKo5K,Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning,7.0
+6T3wJQhvc3,Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models,7.0
+5THcDkGGjt,Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation,7.0
+5Bl5qf3fON,Bures-Wasserstein Flow Matching for Graph Generation,7.0
+4voMNlRWI7,3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras,7.0
+4uTZobABec,Learning a distance measure from the information-estimation geometry of data,7.0
+4twbqwV4br,Neural Message-Passing on Attention Graphs for Hallucination Detection,7.0
+4YG9ufFg58,Identity-Free Deferral For Unseen Experts,7.0
+4VW9HVCRw0,TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions,7.0
+3vlMiJwo8b,Do 3D Large Language Models Really Understand 3D Spatial Relationships?,7.0
+3Z3Is6hnOT,Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding,7.0
+3VdSuh3sie,Fast training of accurate physics-informed neural networks without gradient descent,7.0
+2YvbLQEdYt,CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale,7.0
+2B8GkGTgmY,"CMT: Mid-Training for Efficient Learning of Consistency, Mean Flow, and Flow-Map Models",7.0
+1vvbzAqdTe,AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint,7.0
+1sffPGGQyT,Achieving Expert-Level Agent from Foundation Model via Complexity Curriculum Reinforcement Learning with Synthetic Data,7.0
+1USeVjsKau,ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference,7.0
+1FCZ4f8dAY,"Tensor learning with orthogonal, Lorentz, and symplectic symmetries",7.0
+17h5Sl2EaK,Distributed Algorithms for Euclidean Clustering,7.0
+0wSlFpMsGb,Common Corpus: The Largest Collection of Ethical Data for LLM Pre-Training,7.0
+0hy9kJ1ULB,MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation,7.0
+0g5Dk4Qfh0,Not All Clients Are Equal: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients,7.0
+0Xi3WDwd5w,Overlap-weighted orthogonal meta-learner for treatment effect estimation over time,7.0

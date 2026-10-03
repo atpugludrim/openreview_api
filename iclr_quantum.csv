@@ -1,0 +1,127 @@
+ids,titles,scores
+248ysaRatx,Feedback-driven recurrent quantum neural network universality,8.0
+pX6B28ynNh,CMT-Benchmark: A Benchmark for Condensed Matter Theory Built by Expert Researchers,6.5
+6Jd5aBml0y,OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction,6.5
+u6fc354gfS,Thompson Sampling via Fine-Tuning of LLMs,6.0
+on2lie43Kl,Quantum machine learning advantages beyond hardness of evaluation,6.0
+nfVKTJ1MJ3,Bures Generalized Category Discovery,6.0
+lcEw5NcSij,A Schrödinger Eigenfunction Method for Long-Horizon Stochastic Optimal Control,6.0
+cS0L2kj0lj,Bayesian Parameter Shift Rules in Variational Quantum Eigensolvers,6.0
+4tasfBIPxp,DistMLIP: A Distributed Inference Platform for Machine Learning Interatomic Potentials,6.0
+2QmiKXfsIr,KANO: Kolmogorov-Arnold Neural Operator,6.0
+11kPIEkj75,Semantic Uncertainty Quantification of Hallucinations in LLMs: A Quantum Tensor Network Based Method,6.0
+0CZAimzcVr,DR-Submodular Maximization with Stochastic Biased Gradients: Classical and Quantum Gradient Algorithms,6.0
+06I7jcrkW2,Orbital Transformers for Predicting Wavefunctions in Time-Dependent Density Functional Theory,6.0
+YKOMMh2pSg,QRIM: Quantum Robust Inner Minimization for Reinforcement Learning,5.5
+QcRto0GjxC,Accelerating Inference for Multilayer Neural Networks with Quantum Computers,5.5
+DbimAFDxZA,"Universality and kernel-adaptive training for classically trained, quantum-deployed generative models",5.5
+0zIcPe4CtY,Sublinear Time Quantum Algorithm for Attention Approximation,5.5
+ia2ux3ZyZA,Quantum-inspired benchmark for Intrinsic Dimension Estimation,5.333333333333333
+HDdkFjFEZd,A Function-Centric Graph Neural Network Approach for Predicting Electron Densities,5.333333333333333
+beg6QFuff4,VARIATIONAL QUANTUM ALGORITHMS ARE LIPSCHITZ SMOOTH,5.2
+DZ76Xr7zct,Joint Structure Search for Tensor Network Operators Inspired by Symmetry Breaking,5.2
+cS2zLrJ3qN,Noise-Resilient Quantum Neural Networks via Zero-Noise Knowledge Distillation,5.0
+V7g24DpCeI,Quantum Algorithm for Deep Neural Networks with Efficient I/O,5.0
+8slDXCAVXS,Sublinear Time Quantum Sensitivity Sampling,5.0
+4irIRIxhs2,Quantum Speedups for Sampling and Non-convex Optimization with Stochastic Zeroth Oracles,5.0
+33OLb5F9uB,Guaranteeing Privacy in Hybrid Quantum Learning through Theoretical Mechanisms,5.0
+0zKfU1rsXd,AQER: A Scalable and Efficient Data Loader for Digital Quantum Computers,5.0
+wJTD7wQh40,A purely Quantum Generative Modeling through  Unitary Scrambling and Collapse,4.8
+kaFlPt39vf,Q-NeRF: Neural Radiance Fields on a Simulated Gate-based Quantum Computer,4.666666666666667
+e9cV4xSjbR,ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics,4.666666666666667
+RbUe1cLXrJ,Quantum Generator Kernels,4.666666666666667
+OfmurJrzlT,Beyond Structure: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction,4.666666666666667
+CJuzV3kcpg,PQ-Net: Periodic Quantum Networks for Multivariate Time Series Forecasting,4.666666666666667
+5xBT5Ziute,MatRIS: Toward Reliable and Efficient Pretrained Machine Learning Interaction Potentials,4.666666666666667
+zJ2kJyO6Ww,Physics-Informed Conditional Diffusion for Multi-Modal PDEs,4.5
+ySp8faVj6k,SAQ: Stabilizer-Aware Quantum Error Correction Decoder,4.5
+sKUUqrezRT,Redefining Neural Operators in $d+1$ Dimensions,4.5
+jI57OAExtD,Reinforcement Learning Agents in Quantum Code Discovery with Argmax-Preserving Quantization,4.5
+hLpJjDmFlQ,Towards Photonic Band Diagram Generation with Transformer-Latent Diffusion Models,4.5
+ZwwFuVQv64,Layerwise Federated Learning for Heterogeneous Quantum Clients using Quorus,4.5
+YxuKCME576,HSG-12M: A Large-Scale Dataset of Spatial Multigraphs from the Energy Spectra of non-Hermitian Crystals,4.5
+A9EP0RPrTL,ReMix: Towards a Unified View of Consistent Character Generation and Editing,4.5
+yLp3dx3HjU,Ax-Prover: Agentic LEAN Proving with LLMs and MCP-based Verifiers,4.0
+x79tGDQd7Z,Scaling Quantum Machine Learning without Tricks: High-Resolution and Diverse Image Generation,4.0
+tOoaF61MVZ,Quantum Regularization through Holevo-Hayashi Information Bottleneck: A Single-Qubit Quantum Autoencoder for NISQ Devices,4.0
+skRDw08ql6,Private and interpretable clinical prediction with quantum-inspired tensor train models,4.0
+hrDlJGrPqc,QC-Bench: What Do Language Models Know About Quantum Computing?,4.0
+gMW2h9I697,QIVPT: Quantum-Inspired Visual Prompt Tuning via Givens Rotations-Based Orthogonal Transformation,4.0
+eIpe2XsnRU,Quantum Autoencoder: An Efficient Representation Learner for Quantum Features,4.0
+a1MteiJJ6g,Generative Krylov Subspace Representations for Scalable Quantum Eigensolvers,4.0
+ZLjnmBgoBo,Time-series based quantum state discrimination,4.0
+YzYlqdvwRe,Approximate Quantum State Preparation with Tree-Based Bayesian Optimization Surrogates,4.0
+XFnrBCAmAQ,Differential Privacy of Hybrid Quantum-Classical Algorithms,4.0
+WhO6Km5Rku,QubitCache: Quantum-Inspired Probabilistic Attention Preservation for KV-Cache Compression,4.0
+RGBOIyK6pm,Quantum Kolmogorov–Arnold Networks,4.0
+RCVwpJEhpc,Constrained Generative Optimization via Progressive Flow Adaptation,4.0
+QOp4bYWpJQ,Universality of Many-body Projected Ensemble for Learning Quantum Data Distribution,4.0
+NOrdZNoOu0,Angular and Shell-Aware Deep Potential Energy Model for Molecular Dynamics,4.0
+IvG90aRAL0,Quantum Algorithms for Projection-Free Sparse Convex Optimization,4.0
+IAQLSLViSe,Quan-dorcet: Tournament-Based One-vs-One Quantum Classification for Robust Single-Shot Inference,4.0
+G2kvxv8yPY,A Bit of Freedom Goes a Long Way: Classical and Quantum Algorithms for Reinforcement Learning under a Generative Model,4.0
+92yJJKmx5s,Quantum spectral operator learning for solving partial differential equations,4.0
+5TBemc6p5i,NoMod: A Non-modular Attack on Module Learning With Errors,4.0
+2H2aNzDeYX,Accelerating Regression Tasks with Quantum Algorithms,4.0
+dDTHP73zOs,Provably Efficient Learning Algorithms for Noisy Quantum State and Process Tomography,3.6
+jUdKM1MjNc,QMill: Quantum Data Generation for Effective and Efficient Quantum Machine Learning,3.5
+grLklvOJt2,Mitigating Exponential Mixed Frequency Growth through Frequency Selection,3.5
+WkB9M4uogy,Quantum-Inspired Structure-Aware Diffusion for Efficient 3D Molecular Generation,3.5
+SHvKYHkS43,Q-STRONG: Quantum-Statistical Robustness with Noise-Guarded Dynamics for Learning,3.5
+Q6TymStAvS,ShadowFM: Geometric Approaches for Learning Quantum Many-Body States with Flow Matching on Classical Shadows,3.5
+Ok9uHVtBHQ,BLIPs: Bayesian Learned Interatomic Potentials,3.5
+OJ3tzHSIis,QuIC: Quantum-Inspired Compound Adapters for Parameter Efficient Fine-Tuning,3.5
+NMV0XdGnaP,Faster Sampling from Gibbs Distributions with Quantum Variance Reduction,3.5
+MGSIggp1mV,Hybrid Quantum-Classical Recurrent Neural Networks,3.5
+G7brpD608I,Simulating Mixed State Dynamics to Enable Differentiable Quantum Architecture Search,3.5
+CtWUjjUCuR,Are neural scaling laws leading quantum chemistry astray?,3.5
+y5rLR9xZpn,Quantum-Inspired Image Encodings for Financial Time-Series Forecasting,3.3333333333333335
+w5dplNdl3x,RBM-Based Simulated Quantum Annealing for Graph Isomorphism Problems,3.3333333333333335
+CNLC4ZkLmW,Shoot from the HIP: Hessian Interatomic Potentials without derivatives,3.3333333333333335
+8uDMAU9K2S,Understanding Signal Propagation in GNNs Via Observables,3.3333333333333335
+3osmz8XzCR,Do you know what k-means? Clustering with constant number of samples,3.3333333333333335
+q97pnOxCZB,SPDEBench: An Extensive Benchmark for Learning Regular and Singular Stochastic PDEs,3.0
+ifesxQxlJp,Amplitude-based Input Attribution in Quantum Learning via Integrated Gradients,3.0
+fKKKtEW71h,QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via Agentic RL,3.0
+e0qqNM7GtY,A Theory of Training Parameter-Shared Quantum Neural Networks from a Bayesian Perspective,3.0
+X4Ih3fYdH4,Readout Noise Mitigation with Bayesian Methods for Quantum Neural Networks,3.0
+Vg9AplGjZ5,CTQWFORMER: A CTQW-BASED TRANSFORMER FOR GRAPH CLASSIFICATION,3.0
+LRqfcdqLY8,Quantum-Classical Knowledge Distillation via Quantum Soft Labels,3.0
+Kli9GFdYug,INTERPRETING QUANTUM CIRCUIT LEARNING WITH QPERT: A STEP TOWARD TRUSTWORTHY QUANTUM AI,3.0
+HrXFxKTFqk,Geometry-Aware Equivariant Attention for Scalable Nanoelectronic Property Prediction,3.0
+GObHf7syOA,Training Hybrid Deep Quantum Neural Network for Efficient Reinforcement Learning,3.0
+9IoBTP4EBO,Latent Diffusion-based 3D Molecular Recovery from Vibrational Spectra,3.0
+PNPF7W6s8n,Active Learning for Molecular Conformation Optimization with a Domain-Agnostic Neural Surrogate Oracle,2.8
+ji4VDNAdB0,Rethinking the Actor-Critic Networks using Hybrid Quantum-Classical Paradigm,2.6666666666666665
+2NZxmGjDZj,Learning the energy relaxation manifold from unrelaxed structures with RelaxNet,2.6666666666666665
+slTQdWWQI9,Contrastive Learning with Quantum Projection Heads and Kernels,2.5
+ool5sbhUud,Rethinking ab initio Neural Wave Function: GNNs at Electron Level,2.5
+gck2KraCk7,GRIT: Graph-Biased Transformers for Hardware-Aware Quantum Layout via Reinforcement Learning Search,2.5
+gVNNcMjk9a,You Only Measure Once: On Designing Single-Shot Quantum Machine Learning Models,2.5
+TY6JBucZ56,Practical Hybrid Quantum Language Models with Observable Readout on Real Hardware,2.5
+Q6gNNXEb3D,Efficient Blockwise Diverse Active Learning,2.5
+NqTeVoz36v,Robust Hybrid Quantum-Classical Latent Diffusion Models via Quantum Noise,2.5
+H2NG2dNN2K,Q-FSRU: Quantum-Augmented Frequency-Spectral Fusion for Medical Visual Question Answering,2.5
+9E0ioSxB7s,Data- and Hardware-Aware Entanglement Selection for Quantum Feature Maps in Hybrid Quantum Neural Networks,2.5
+V7JtXV1Af7,Active Side Channel Analysis for Cross-Device Attack,2.4
+w6uLhVCxwt,Quantum Hamiltonian Descent for Rigid Image Registration,2.0
+nr3HyJhNne,Mitigating Barren Plateaus in Quantum Neural Networks via an AI-Driven Submartingale-Based Framework,2.0
+ly1db8QysC,A Large-Scale Atomic Interaction Model Based on Matter Wave Theory,2.0
+lZfaGbAAGe,FFT-Accelerated Auxiliary Variable MCMC for Fermionic Lattice Models: A Determinant-Free Approach with $O(N \log N)$ Complexity,2.0
+iFjqavBNWD,Heterogeneous Quantum Federated Learning via Adaptive Circuit Search and Model Aggregation,2.0
+i75XGv8oqj,Quantum Attention: Fast Algorithms for Scalable Computation,2.0
+c4ir92gYjv,Data-Efficient Generalization and Faster Initial Learning in Quantum Models for Classifying Cellular Activation States,2.0
+YXvPS2uebR,Rank-efficient Mixture of Experts for LLM Finetuning,2.0
+XBz6cMlv8Z,Quantum mechanical framework for quantization-based optimization: from Gradient flow to Schrödinger equation,2.0
+FHg84LMVxZ,Variational Quantum Hypernetworks for Generalized Quantum Circuit Initialization,2.0
+ElRM4Zi91B,Q1Fold: A Qubit-Efficient Hybrid Quantum-Classical Convolutional Neural Network for RNA secondary Structure Prediction,2.0
+E1T9imYSe3,QuBS: Combinatorial Quantum Brain Surgeon on Quantum Annealers,2.0
+61hLQpeMtc,Quantum-RAG and PunGPT2: Advancing Low-Resource Language Generation and Retrieval for the Punjabi Language,2.0
+56W2REpMPw,Capturing Opinion Shifts in Deliberative Discourse through Frequency-based Quantum deep learning methods,2.0
+MRkJ8WYd93,Quantum Learning from Label Proportion,1.6666666666666667
+59UXqRT1in,AGRI-Check: Fact-Checking Agricultural Misinformation,1.5
+zOaKaSMwdn,Post-Quantum Cryptography for Stablecoin Smart Contracts: Future-proofing Against Quantum Attacks,1.3333333333333333
+VgNs9dzyp6,Feature-Level Adversarial Attack on Quantum Neural Networks,1.3333333333333333
+qBy7nYDgEa,HiFACTMix: A Code-Mixed Benchmark and Graph-Aware Model for EvidenceBased Political Claim Verification in Hinglish,1.0
+9tHzAuqDnh,Hybrid Quantum-Classical Policy Gradients for Multi-Agent Reinforcement Learning: A Principled Analysis of Expressivity and Trade-offs,1.0
+67w2M2z4Fj,NeuroDNAAI: Neural Pipeline Approaches for Advancing DNA-Based Information Storage as a Sustainable Digital Medium Using Deep Learning Framework,1.0
